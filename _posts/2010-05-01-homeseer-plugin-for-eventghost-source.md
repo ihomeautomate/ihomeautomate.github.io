@@ -20,7 +20,7 @@ tags:
 ---
 For quite a while now I make use of <a title="EventGhost" href="http://www.eventghost.org/" target="_blank">EventGhost</a> to control <a title="MediaPortal" href="http://www.team-mediaportal.com/" target="_blank">MediaPortal</a> with my remote-control. Why shouldn&#8217;t I make use of the same remote to execute <a title="HomeSeer" href="http://www.homeseer.com/" target="_blank">HomeSeer </a>events? 
 
-Unfortunately there wasn&#8217;t any existing plugin for EventGhost doing this. That&#8217;s why I tried to quickly build something in C# (<a title="HomeSeer Toy in C#" href="http://www.ihomeautomate.eu/?p=76" target="_self">see here</a>). However, the result wasn&#8217;t what I expected it to be, so I decided to create an EventGhost (Python) plugin myself; I must admit, Python was completely new to me.
+Unfortunately there wasn&#8217;t any existing plugin for EventGhost doing this. That&#8217;s why I tried to quickly build something in C# ([see here]({% post_url 2010-04-24-homeseertoy-in-csharp %})). However, the result wasn&#8217;t what I expected it to be, so I decided to create an EventGhost (Python) plugin myself; I must admit, Python was completely new to me.
 
 Requisites:
 
