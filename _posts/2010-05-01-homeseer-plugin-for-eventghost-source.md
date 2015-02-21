@@ -8,6 +8,7 @@ image:
   - http://ihomeautomate.com/images/hellohomeseer.jpg
 disqus_identifier: '4 http://smart-living.geoblog.be/?p=4'
 comments: true
+ads: true
 categories:
   - EventGhost
 tags:

@@ -5,6 +5,7 @@ excerpt: 'Some tips and tricks to connect from a C# application to HomeSeer'
 layout: article
 permalink: /2010/04/24/homeseertoy-in-csharp/
 comments: true
+ads: true
 image:
   - http://ihomeautomate.com/wp-content/uploads/2010/05/HomeSeerToy.jpg
 disqus_identifier: '76 http://smart-living.geoblog.be/?p=76'

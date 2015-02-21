@@ -12,6 +12,7 @@ tags:
   - eventghost
   - homeseer
   - python
+ads: true
 ---
 Some people have contacted me to explain in a few words how exactly to install the EventGhost HomeSeer plugin. This will hopefully do just that.
 

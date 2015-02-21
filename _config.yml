@@ -22,12 +22,14 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: iHomeAutomate
+  web: http://iHomeAutomate.com
   email:
-  twitter:
+  twitter: ihomeautomate
   google:
-    ad-client:
-    ad-slot:
+    plus: +iHomeAutomateEU
+    ad-client: ca-pub-8912601207925232
+    ad-slot: 5196264642
   bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname: iHomeAutomate
