@@ -3,8 +3,8 @@ layout: default
 ---
 
 {% for data_tag in site.data.tags %}
-  {% if data_tag.slug == post_tag %}
-    {% assign title = data_tag.name %}
+  {% if data_tag.slug == page.tag %}
+    {% assign tagName = data_tag.name %}
   {% endif %}
 {% endfor %}
 
@@ -19,11 +19,11 @@ layout: default
 		</div><!-- /.page-feature -->
 		{% endif %}
 		<div class="page-title">
-			<h1>{% if title %}{{title}}{% else %}{{ page.title }}{% endif %}</h1>
+			<h1>{% if tagName %}{{tagName}}{% else %}{{ page.title }}{% endif %}</h1>
 			{% if page.excerpt %}
           <h2>{{ page.excerpt }}</h2>
       {% else %}
-          <h2>Tag archives: {{page.tag}}</h2>
+          <h2>Tag archives: {% if tagName %}{{tagName}}{% else %}{{page.tag}}{% endif %}</h2>
       {% endif %}
 		</div>
 		<div class="archive-wrap">
