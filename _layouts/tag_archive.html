@@ -19,11 +19,10 @@ layout: default
 		</div><!-- /.page-feature -->
 		{% endif %}
 		<div class="page-title">
-			<h1>{% if tagName %}{{tagName}}{% else %}{{ page.title }}{% endif %}</h1>
-			{% if page.excerpt %}
-          <h2>{{ page.excerpt }}</h2>
+			{% if page.title %}
+          <h1>{{ page.title }}</h1>
       {% else %}
-          <h2>Tag archives: {% if tagName %}{{tagName}}{% else %}{{page.tag}}{% endif %}</h2>
+          <h1>Tag archives: {% if tagName %}{{tagName}}{% else %}{{page.tag}}{% endif %}</h1>
       {% endif %}
 		</div>
 		<div class="archive-wrap">
