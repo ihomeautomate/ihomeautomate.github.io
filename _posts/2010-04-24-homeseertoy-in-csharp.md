@@ -9,15 +9,11 @@ image:
 dsq_thread_id:
   - 405232703
 categories:
-  - 'C#'
-  - Home Automation
-  - HomeSeer
+  - HomeSeer 
 tags:
+  - HomeSeer
   - .NET
   - 'C#'
-  - Development
-  - Home Automation
-  - HomeSeer
 ---
 I felt the need to control my lights with the media-player remote-control I had available. I assumed it would be easy to quickly build a C# console application which I could easily start from within EventGhost. 
 

@@ -10,8 +10,6 @@ dsq_thread_id:
   - 
 categories:
   - EventGhost
-  - Home Automation
-  - HomeSeer
 tags:
   - EventGhost
   - HomeSeer

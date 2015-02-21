@@ -10,9 +10,6 @@ dsq_thread_id:
   - 405232167
 categories:
   - EventGhost
-  - Home Automation
-  - HomeSeer
-  - Python
 tags:
   - EventGhost
   - HomeSeer
