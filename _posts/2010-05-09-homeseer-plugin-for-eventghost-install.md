@@ -6,8 +6,6 @@ layout: article
 permalink: /2010/05/09/homeseer-plugin-for-eventghost-install/
 image:
   - http://ihomeautomate.com/wp-content/uploads/2010/05/addplugin.jpg
-dsq_thread_id:
-  - 
 categories:
   - EventGhost
 tags:

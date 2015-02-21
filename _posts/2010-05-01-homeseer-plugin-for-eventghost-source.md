@@ -6,8 +6,8 @@ layout: article
 permalink: /2010/05/01/homeseer-plugin-for-eventghost-source/
 image:
   - http://ihomeautomate.com/images/hellohomeseer.jpg
-dsq_thread_id:
-  - 405232167
+disqus_identifier: '4 http://smart-living.geoblog.be/?p=4'
+comments: true
 categories:
   - EventGhost
 tags:
