@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - EventGhost
 tags:
-  - EventGhost
-  - HomeSeer
-  - Python
+  - eventghost
+  - homeseer
+  - python
 ---
 For quite a while now I make use of <a title="EventGhost" href="http://www.eventghost.org/" target="_blank">EventGhost</a> to control <a title="MediaPortal" href="http://www.team-mediaportal.com/" target="_blank">MediaPortal</a> with my remote-control. Why shouldn&#8217;t I make use of the same remote to execute <a title="HomeSeer" href="http://www.homeseer.com/" target="_blank">HomeSeer </a>events? 
 

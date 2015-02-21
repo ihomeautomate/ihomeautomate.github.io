@@ -2,6 +2,24 @@
 layout: default
 ---
 
+{% assign post = page %}
+{% if post.tags.size > 0 %}
+  {% capture tags_content %}{% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %} {% endcapture %}
+  {% for post_tag in post.tags %}
+    {% for data_tag in site.data.tags %}
+      {% if data_tag.slug == post_tag %}
+        {% assign tag = data_tag %}
+      {% endif %}
+    {% endfor %}
+    {% if tag %}
+      {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.url }}/tag/{{ tag.slug }}" class="btn badge info">{{ tag.name }}</a> {% endcapture %}
+      {% assign tags_content = tags_content_temp %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% assign tags_content = '' %}
+{% endif %}
+
 <div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 		{% if page.image.feature %}
@@ -14,10 +32,9 @@ layout: default
 		{% endif %}
 		{% include breadcrumbs.html %}
     <div class="badges">
-      {% for tag in page.tags %}
-        <span class="badge info">{{ tag }}</span>
-      {% endfor %}
+      {{ tags_content }}
     </div>
+
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
 		</div>

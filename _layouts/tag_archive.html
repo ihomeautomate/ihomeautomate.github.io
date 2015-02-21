@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+{% for data_tag in site.data.tags %}
+  {% if data_tag.slug == post_tag %}
+    {% assign title = data_tag.name %}
+  {% endif %}
+{% endfor %}
+
+<div id="main" role="main">
+	<div class="wrap">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		<div class="page-title">
+			<h1>{% if title %}{{title}}{% else %}{{ page.title }}{% endif %}</h1>
+			{% if page.excerpt %}
+          <h2>{{ page.excerpt }}</h2>
+      {% else %}
+          <h2>Tag archives: {{page.tag}}</h2>
+      {% endif %}
+		</div>
+		<div class="archive-wrap">
+			<div class="page-content">
+        <div class="tiles">
+          {% if site.tags[page.tag] %}
+            {% for post in site.tags[page.tag] %}
+              {% include post-grid.html %}
+            {% endfor %}
+          {% endif %}
+        </div>
+			</div><!-- /.page-content -->
+		</div class="archive-wrap"><!-- /.archive-wrap -->
+	</div><!-- /.wrap -->
+</div><!-- /#main -->

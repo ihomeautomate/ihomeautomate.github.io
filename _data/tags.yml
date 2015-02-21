@@ -1,0 +1,14 @@
+- slug: eventghost
+  name: EventGhost
+
+- slug: homeseer
+  name: HomeSeer
+
+- slug: python
+  name: Python
+
+- slug: dotnet
+  name: .NET
+
+- slug: csharp
+  name: 'C#'

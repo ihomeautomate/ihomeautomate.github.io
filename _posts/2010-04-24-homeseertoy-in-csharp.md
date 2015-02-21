@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - HomeSeer 
 tags:
-  - HomeSeer
-  - .NET
-  - 'C#'
+  - homeseer
+  - dotnet
+  - csharp
 ---
 I felt the need to control my lights with the media-player remote-control I had available. I assumed it would be easy to quickly build a C# console application which I could easily start from within EventGhost. 
 
