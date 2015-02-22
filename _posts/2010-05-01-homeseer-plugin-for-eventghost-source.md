@@ -5,7 +5,7 @@ excerpt: 'A HomeSeer plugin for EventGhost'
 layout: article
 permalink: /2010/05/01/homeseer-plugin-for-eventghost-source/
 image:
-  - http://ihomeautomate.com/images/hellohomeseer.jpg
+  teaser: hellohomeseer.jpg
 disqus_identifier: '4 http://smart-living.geoblog.be/?p=4'
 comments: true
 ads: true
