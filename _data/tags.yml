@@ -12,3 +12,12 @@
 
 - slug: csharp
   name: 'C#'
+
+- slug: cm15a
+  name: CM15A
+
+- slug: usb
+  name: USB
+
+- slug: x10
+  name: X10

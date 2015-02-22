@@ -26,7 +26,7 @@ Requisites:
   * HomeSeer &#8211; <a title="HomeSeer" href="http://www.homeseer.com/" target="_blank">http://www.homeseer.com/</a> (to control the devices)
   * HomeSeer Speaker Client &#8211; <a title="HomeSeer Download Page" href="http://www.homeseer.com/downloads/index.htm" target="_blank">http://www.homeseer.com/downloads/index.htm</a>
 
-<img class="aligncenter" title="Hello HomeSeer!" src="http://www.ihomeautomate.eu/images/hellohomeseer.jpg" alt="" width="435" height="259" />
+![Hello HomeSeer!]({{ site.url }}/images/hellohomeseer.jpg)
 
 When EventGhost is installed on the same machine running HomeSeer, nothing extra needs to be installed. However, when a remote machine is used to control HomeSeer, then you'll need to download and install the HomeSeer Speaker Client. As such, you can call the necessary HomeSeer COM objects from Python.
 
