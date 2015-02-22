@@ -5,7 +5,7 @@ excerpt: 'Describing how to install the EventGhost plugin to interface with Home
 layout: article
 permalink: /2010/05/09/homeseer-plugin-for-eventghost-install/
 image:
-  - http://ihomeautomate.com/wp-content/uploads/2010/05/addplugin.jpg
+  teaser: 2010/05/addplugin-400x250.jpg
 categories:
   - EventGhost
 tags:
