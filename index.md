@@ -1,8 +1,10 @@
 ---
-layout: archive
+layout: home
 permalink: /
-title: "Latest Posts"
+image:
+  feature: home-1600x800.jpg
 ---
+
 
 <div class="tiles">
 {% for post in site.posts %}
