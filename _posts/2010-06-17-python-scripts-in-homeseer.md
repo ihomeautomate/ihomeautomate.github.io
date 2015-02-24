@@ -1,7 +1,7 @@
 ---
 title: Python scripts in HomeSeer
 author: iHomeAutomate
-excerpt: 'Howto describing how to get those python scripts running in HomeSeer'
+excerpt: 'Simple steps describing how to get python scripts running in HomeSeer'
 layout: article
 permalink: /2010/06/17/python-scripts-in-homeseer/
 image:
