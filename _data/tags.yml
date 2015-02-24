@@ -21,3 +21,12 @@
 
 - slug: x10
   name: X10
+
+- slug: infrared
+  name: Infrared
+
+- slug: ir
+  name: IR
+
+- slug: irtrans
+  name: irTrans
