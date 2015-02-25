@@ -1,20 +1,16 @@
 - slug: eventghost
   name: EventGhost
-
 - slug: homeseer
   name: HomeSeer
-
 - slug: python
   name: Python
-
 - slug: dotnet
   name: .NET
-
 - slug: csharp
   name: 'C#'
-
 - slug: infrared
   name: Infrared
-
 - slug: android
   name: Android
+- slug: home-entertainment
+  name: 'Home Entertainment'

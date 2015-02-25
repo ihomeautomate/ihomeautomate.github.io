@@ -1,44 +1,38 @@
 - slug: eventghost
   name: EventGhost
-
 - slug: homeseer
   name: HomeSeer
-
 - slug: python
   name: Python
-
 - slug: dotnet
   name: .NET
-
 - slug: csharp
   name: 'C#'
-
 - slug: cm15a
   name: CM15A
-
 - slug: usb
   name: USB
-
 - slug: x10
   name: X10
-
 - slug: infrared
   name: Infrared
-
 - slug: ir
   name: IR
-
 - slug: irtrans
   name: irTrans
-
 - slug: android
   name: Android
-
 - slug: java
   name: Java
-
 - slug: hstouch
   name: HSTouch
-
 - slug: droidseer
   name: DroidSeer
+- slug: bravia
+  name: Bravia
+- slug: home-entertainment
+  name: Home Entertainment
+- slug: sony
+  name: Sony
+- slug: tv
+  name: TV
