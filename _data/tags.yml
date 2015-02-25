@@ -30,3 +30,15 @@
 
 - slug: irtrans
   name: irTrans
+
+- slug: android
+  name: Android
+
+- slug: java
+  name: Java
+
+- slug: hstouch
+  name: HSTouch
+
+- slug: droidseer
+  name: DroidSeer
