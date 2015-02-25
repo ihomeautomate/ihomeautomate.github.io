@@ -14,3 +14,5 @@
   name: Android
 - slug: home-entertainment
   name: 'Home Entertainment'
+- slug: ip-camera
+  name: 'IP Camera'

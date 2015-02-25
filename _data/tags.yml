@@ -36,3 +36,7 @@
   name: Sony
 - slug: tv
   name: TV
+- slug: ip-camera
+  name: 'IP Camera'
+- slug: y-cam
+  name: 'Y-Cam'
