@@ -16,3 +16,5 @@
   name: 'Home Entertainment'
 - slug: ip-camera
   name: 'IP Camera'
+- slug: z-wave
+  name: Z-Wave
