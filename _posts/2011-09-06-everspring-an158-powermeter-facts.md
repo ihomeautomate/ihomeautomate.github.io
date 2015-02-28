@@ -15,6 +15,8 @@ tags:
   - z-wave
 comments: true
 ads: true
+image:
+  teaser: an158-400x250.jpg
 ---
 The Everspring AN158 device is a Z-Wave on/off plug with power metering capabilities. It reports both the actual consumption (in Watts) and the accumulated usage (in KWh). The device is rated IP20, hence only for indoor dry environments.
 
