@@ -1,3 +1,5 @@
+- slug: 433.92mhz
+  name: 433.92MHz
 - slug: aeon_labs
   name: Aeon Labs
 - slug: android
@@ -44,6 +46,14 @@
   name: 'Power Meter'
 - slug: python
   name: Python
+- slug: rfxcom
+  name: RFXCom
+- slug: rfxlan
+  name: RFXLan
+- slug: rfxmeter
+  name: RFXMeter
+- slug: rfxmitter
+  name: RFXMitter
 - slug: script
   name: Script
 - slug: sony
@@ -54,6 +64,8 @@
   name: USB
 - slug: x10
   name: X10
+- slug: xpl
+  name: xPL
 - slug: y-cam
   name: 'Y-Cam'
 - slug: z-wave
