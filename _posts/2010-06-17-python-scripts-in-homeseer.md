@@ -11,6 +11,7 @@ categories:
 tags:
   - homeseer
   - python
+  - script
 ads: true
 comments: true  
 ---

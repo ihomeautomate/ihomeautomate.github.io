@@ -16,6 +16,8 @@
   name: EventGhost
 - slug: everspring
   name: Everspring
+- slug: groovy
+  name: Groovy
 - slug: home-entertainment
   name: Home Entertainment
 - slug: homeseer
@@ -36,6 +38,8 @@
   name: 'Power Meter'
 - slug: python
   name: Python
+- slug: script
+  name: Script
 - slug: sony
   name: Sony
 - slug: tv
