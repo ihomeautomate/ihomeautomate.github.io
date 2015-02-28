@@ -14,7 +14,8 @@ tags:
 image:
   teaser: 2011/09/homeseer.groovy.400x250.jpg
   feature: 2011/09/homeseer.groovy.1025x256.jpg
-    
+comments: true
+ads: true
 ---
 I felt like fooling around with <a href="http://groovy-lang.org/" target="_blank">Groovy</a> and [HomeSeer][1], so I started investigating what the options are. Of course you can just run a command-line groovy script from within HomeSeer, that&#8217;s not a challenge. The challenge was to let the groovy script actually connect to HomeSeer. 
 
