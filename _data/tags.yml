@@ -28,6 +28,10 @@
   name: Home Entertainment
 - slug: homeseer
   name: HomeSeer
+- slug: hs2
+  name: HS2
+- slug: hs3
+  name: HS3
 - slug: hstouch
   name: HSTouch
 - slug: infrared
@@ -48,6 +52,8 @@
   name: 'Power Meter'
 - slug: python
   name: Python
+- slug: road_to_hs3
+  name: 'Road to HS3'
 - slug: rfxcom
   name: RFXCom
 - slug: rfxlan
