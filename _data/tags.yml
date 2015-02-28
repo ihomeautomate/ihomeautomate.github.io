@@ -1,3 +1,5 @@
+- slug: aeon_labs
+  name: Aeon Labs
 - slug: android
   name: Android
 - slug: an158
@@ -16,6 +18,8 @@
   name: EventGhost
 - slug: everspring
   name: Everspring
+- slug: fibaro
+  name: Fibaro
 - slug: groovy
   name: Groovy
 - slug: home-entertainment
@@ -34,6 +38,8 @@
   name: irTrans
 - slug: java
   name: Java
+- slug: micro_modules
+  name: Micro Modules
 - slug: powermeter
   name: 'Power Meter'
 - slug: python
