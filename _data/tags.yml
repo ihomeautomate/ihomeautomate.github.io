@@ -38,6 +38,8 @@
   name: 'IP Camera'
 - slug: irtrans
   name: irTrans
+- slug: led
+  name: LED
 - slug: java
   name: Java
 - slug: micro_modules
