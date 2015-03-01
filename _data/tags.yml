@@ -13,9 +13,11 @@
 - slug: cm15a
   name: CM15A
 - slug: dotnet
+  name: .NET
+- slug: duwi
+  name: Duwi
 - slug: droidseer
   name: DroidSeer
-  name: .NET
 - slug: eventghost
   name: EventGhost
 - slug: everspring
@@ -50,6 +52,8 @@
   name: Micro Modules
 - slug: powermeter
   name: 'Power Meter'
+- slug: popp
+  name: Popp
 - slug: python
   name: Python
 - slug: road_to_hs3
@@ -70,6 +74,8 @@
   name: TV
 - slug: usb
   name: USB
+- slug: vera
+  name: Vera
 - slug: x10
   name: X10
 - slug: xpl
