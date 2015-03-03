@@ -78,6 +78,10 @@
   name: USB
 - slug: vera
   name: Vera
+- slug: vera3
+  name: Vera 3
+- slug: veralite
+  name: Vera Lite
 - slug: x10
   name: X10
 - slug: xpl
