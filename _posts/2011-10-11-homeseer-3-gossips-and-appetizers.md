@@ -8,6 +8,7 @@ categories:
   - homeseer3
 tags:
   - homeseer
+  - homeseer3
   - hs3
   - road_to_hs3
 image:

@@ -30,6 +30,8 @@
   name: Home Entertainment
 - slug: homeseer
   name: HomeSeer
+- slug: homeseer3
+  name: HomeSeer 3
 - slug: homeseer_plugin
   name: HomeSeer Plugin
 - slug: hs2
