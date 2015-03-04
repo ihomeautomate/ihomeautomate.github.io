@@ -24,6 +24,8 @@
   name: Everspring
 - slug: fibaro
   name: Fibaro
+- slug: fibar_group
+  name: Fibar Group
 - slug: groovy
   name: Groovy
 - slug: home-entertainment
@@ -42,6 +44,8 @@
   name: HSTouch
 - slug: infrared
   name: Infrared
+- slug: interview
+  name: Interview
 - slug: ir
   name: IR
 - slug: ip-camera
