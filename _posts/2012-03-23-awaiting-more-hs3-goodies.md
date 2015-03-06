@@ -4,8 +4,6 @@ author: iHomeAutomate
 excerpt: 'The first Homeseer 3 gossip in 2012!'
 layout: article
 permalink: /2012/03/23/awaiting-more-hs3-goodies/
-dsq_thread_id:
-  - 622053061
 categories:
   - homeseer
 tags:
