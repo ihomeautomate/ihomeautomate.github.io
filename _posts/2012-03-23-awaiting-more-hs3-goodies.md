@@ -9,6 +9,7 @@ categories:
 tags:
   - homeseer
   - hs3
+  - road_to_hs3
 image:
   teaser: HomeSeer.Appetizer.400x250.jpg
   feature: road_to_hs3_1024x256.jpg
