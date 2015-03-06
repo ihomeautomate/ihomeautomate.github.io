@@ -26,6 +26,8 @@
   name: Fibaro
 - slug: fibar_group
   name: Fibar Group
+- slug: google
+  name: Google
 - slug: groovy
   name: Groovy
 - slug: home-entertainment
@@ -96,5 +98,7 @@
   name: xPL
 - slug: y-cam
   name: 'Y-Cam'
+- slug: zigbee
+  name: ZigBee
 - slug: z-wave
   name: Z-Wave
