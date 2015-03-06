@@ -18,3 +18,5 @@
   name: 'IP Camera'
 - slug: z-wave
   name: Z-Wave
+- slug: vera
+  name: Vera

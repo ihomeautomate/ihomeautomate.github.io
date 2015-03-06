@@ -54,6 +54,8 @@
   name: irTrans
 - slug: led
   name: LED
+- slug: luup
+  name: Luup
 - slug: java
   name: Java
 - slug: micro_modules
