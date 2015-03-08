@@ -4,8 +4,6 @@ author: iHomeAutomate
 excerpt: 'A peek around the corner of HS3 (beta) release status'
 layout: article
 permalink: /2013/05/03/hs3-a-peek-around-the-corner/
-dsq_thread_id:
-  - 1258961359
 categories:
   - homeseer
 tags:
