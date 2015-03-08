@@ -62,6 +62,8 @@
   name: Java
 - slug: micro_modules
   name: Micro Modules
+- slug: news
+  name: News
 - slug: powermeter
   name: 'Power Meter'
 - slug: popp
