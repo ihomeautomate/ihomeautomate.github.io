@@ -1,5 +1,6 @@
 ---
 title: Bring on the Fall!
+excerpt: 'Get back to school, get back to work&#8230; summertime is over! Here&#8217;s a short HS3 rumour round-up.'
 author: iHomeAutomate
 layout: article
 permalink: /2012/08/31/bring-on-the-fall/
@@ -10,7 +11,7 @@ tags:
   - hs3
   - road_to_hs3
 image:
-  teaser: HomeSeer.Appetizer.400x250.jpg
+  teaser: 2012/08/fall-400x250.jpg
   feature: road_to_hs3_1024x256.jpg  
 comments: true
 ads: true
