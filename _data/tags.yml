@@ -68,6 +68,8 @@
   name: Micro Modules
 - slug: news
   name: News
+- slug: philio_technology
+  name: Philio Technology
 - slug: powermeter
   name: 'Power Meter'
 - slug: popp
