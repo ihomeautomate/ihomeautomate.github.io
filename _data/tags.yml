@@ -2,6 +2,8 @@
   name: 433.92MHz
 - slug: aeon_labs
   name: Aeon Labs
+- slug: aeotec
+  name: Aeotec
 - slug: android
   name: Android
 - slug: an158
