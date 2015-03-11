@@ -90,6 +90,8 @@
   name: Script
 - slug: sony
   name: Sony
+- slug: tkbhome
+  name: TKBHOME
 - slug: tv
   name: TV
 - slug: usb

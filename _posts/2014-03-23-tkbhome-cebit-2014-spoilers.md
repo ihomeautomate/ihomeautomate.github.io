@@ -9,20 +9,22 @@ categories:
 tags:
   - cebit
   - tkbhome
-  - zwave
+  - z-wave
 image:
   teaser: 2014/03/tkbhome-zwavealliance-400x250.jpg
+comments: true
+ads: true  
 ---
-<div style="margin-bottom: 0px;">
-  <a href="http://www.tkbhome.com/" target="_blank">TKBHOME</a> (China) found their spot in the <a title="Z-Wave Alliance" href="http://www.z-wavealliance.org/" target="_blank">Z-Wave Alliance</a> booth at <a title="Z-Wave Alliance" href="http://www.cebit.de/home" target="_blank">CeBIT 2014</a> in Hannover and presented the latest additions to their Z-Wave product catalogue.
-</div>
 
-<div style="margin-bottom: 10px;">
-  <img style="float: right; padding: 23px 50px 0px 0px;" alt="" src="/wp-content/uploads/2014/03/tkbhome-cebit2014.jpg" /><br /> <img style="float: left; padding: 0px 0px 0px 50px;" alt="" src="/wp-content/uploads/2014/03/tkbhome-cebit2014-2.jpg" />
-</div>
+<a href="http://www.tkbhome.com/" target="_blank">TKBHOME</a> (China) found their spot in the <a title="Z-Wave Alliance" href="http://www.z-wavealliance.org/" target="_blank">Z-Wave Alliance</a> booth at <a title="Z-Wave Alliance" href="http://www.cebit.de/home" target="_blank">CeBIT 2014</a> in Hannover and presented the latest additions to their Z-Wave product catalogue.
+
+<figure class="half">
+  <img src="{{site.url}}/images/2014/03/tkbhome-cebit2014.jpg" />
+  <img src="{{site.url}}/images/2014/03/tkbhome-cebit2014-2.jpg" />
+</figure>
 
 <div style="margin-bottom: 10px;clear: both;">
-  <img style="float: right; padding: 40px 80px 0px 10px;height:25%;width:25%" alt="" src="/wp-content/uploads/2014/03/tkbhome-in-wall-module.jpg" /><br /> The <a href="http://www.tkbhome.com/?cn-p-d-254.html" target="_blank">TZ06</a>, a very slim two relay in-wall module without power meter features, as well as its brother <a href="http://www.tkbhome.com/?cn-p-d-253.html" target="_blank">TZ04</a> with power meter capabilities.</p> 
+  <img style="float: right; padding: 40px 80px 0px 10px;height:25%;width:25%" alt="" src="{{site.url}}/images/2014/03/tkbhome-in-wall-module.jpg" /><br /> The <a href="http://www.tkbhome.com/?cn-p-d-254.html" target="_blank">TZ06</a>, a very slim two relay in-wall module without power meter features, as well as its brother <a href="http://www.tkbhome.com/?cn-p-d-253.html" target="_blank">TZ04</a> with power meter capabilities.</p> 
   
   <ul>
     <li>
@@ -41,7 +43,7 @@ image:
 </div>
 
 <div style="margin-bottom: 10px;clear: both;">
-  <img style="float: left; padding: 60px 70px 30px 10px;height:25%;width:25%" alt="" src="/wp-content/uploads/2014/03/tkbhome-in-wall-module.jpg" /><br /> With the same dimensions, the <a href="http://www.tkbhome.com/?cn-p-d-255.html" target="_blank">TZ08</a> a Z-Wave roller shutter controller.</p> 
+  <img style="float: left; padding: 60px 70px 30px 10px;height:25%;width:25%" alt="" src="{{site.url}}/images/2014/03/tkbhome-in-wall-module.jpg" /><br /> With the same dimensions, the <a href="http://www.tkbhome.com/?cn-p-d-255.html" target="_blank">TZ08</a> a Z-Wave roller shutter controller.</p> 
   
   <ul>
     <li>
@@ -66,7 +68,7 @@ image:
 </div>
 
 <div style="margin-bottom: 10px;clear: both;">
-  <img style="float: right; padding: 70px 70px 0px 0px;height:25%;width:25%" alt="" src="/wp-content/uploads/2014/03/tkbhome-plug-switch.jpg" /><br /> The <a href="http://www.tkbhome.com/?cn-p-d-259.html" target="_blank">TZ88</a> Smart Energy Switch with power meter capabilities.</p> 
+  <img style="float: right; padding: 70px 70px 0px 0px;height:25%;width:25%" alt="" src="{{site.url}}/images/2014/03/tkbhome-plug-switch.jpg" /><br /> The <a href="http://www.tkbhome.com/?cn-p-d-259.html" target="_blank">TZ88</a> Smart Energy Switch with power meter capabilities.</p> 
   
   <ul>
     <li>
@@ -88,7 +90,7 @@ image:
 </div>
 
 <div style="margin-bottom: 10px;clear: both;">
-  <img style="float: left; padding: 50px 35px 10px 10px;height:12%;width:12%" alt="" src="/wp-content/uploads/2014/03/tkbhome-pir.jpg" /><br /> A Z-Wave PIR, illumination and temperature multisensor &#8211; all three-in-one &#8211; meet the <a href="http://www.tkbhome.com/?cn-p-d-258.html" target="_blank">TSP01</a>:</p> 
+  <img style="float: left; padding: 50px 35px 10px 10px;height:12%;width:12%" alt="" src="{{site.url}}/images/2014/03/tkbhome-pir.jpg" /><br /> A Z-Wave PIR, illumination and temperature multisensor &#8211; all three-in-one &#8211; meet the <a href="http://www.tkbhome.com/?cn-p-d-258.html" target="_blank">TSP01</a>:</p> 
   
   <ul>
     <li>
@@ -110,7 +112,7 @@ image:
 </div>
 
 <div style="margin-bottom: 10px;clear: both;">
-  <img style="float: right; padding: 62px 5px 0px 0px;height:12%;width:12%" alt="" src="/wp-content/uploads/2014/03/tkbhome-door-window.jpg" /><br /> A Z-Wave PIR, Door/window, illumination and temperature multisensor &#8211; all four-in-one : <a href="http://www.tkbhome.com/?cn-p-d-257.html" target="_blank">TSM02</a></p> 
+  <img style="float: right; padding: 62px 5px 0px 0px;height:12%;width:12%" alt="" src="{{site.url}}/images/2014/03/tkbhome-door-window.jpg" /><br /> A Z-Wave PIR, Door/window, illumination and temperature multisensor &#8211; all four-in-one : <a href="http://www.tkbhome.com/?cn-p-d-257.html" target="_blank">TSM02</a></p> 
   
   <ul>
     <li>
@@ -141,7 +143,7 @@ image:
 </div>
 
 <div style="margin-bottom: 10px;clear: both;">
-  <img style="float: left; padding: 90px 21px 10px 10px;height:12%;width:12%" alt="" src="/wp-content/uploads/2014/03/tkbhome-door-window.jpg" /><br /> A Z-Wave Door/window, illumination and temperature multisensor &#8211; all three-in-one : <a href="http://www.tkbhome.com/?cn-p-d-256.html" target="_blank">TSM01</a></p> 
+  <img style="float: left; padding: 90px 21px 10px 10px;height:12%;width:12%" alt="" src="{{site.url}}/images/2014/03/tkbhome-door-window.jpg" /><br /> A Z-Wave Door/window, illumination and temperature multisensor &#8211; all three-in-one : <a href="http://www.tkbhome.com/?cn-p-d-256.html" target="_blank">TSM01</a></p> 
   
   <ul>
     <li>
