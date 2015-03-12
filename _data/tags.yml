@@ -40,6 +40,8 @@
   name: HomeSeer
 - slug: homeseer3
   name: HomeSeer 3
+- slug: homeseer_changelog
+  name: HomeSeer Changelog
 - slug: homeseer_plugin
   name: HomeSeer Plugin
 - slug: hs2
