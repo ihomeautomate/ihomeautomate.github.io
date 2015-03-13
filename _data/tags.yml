@@ -48,6 +48,8 @@
   name: HS2
 - slug: hs3
   name: HS3
+- slug: hs3-pi
+  name: HS3-Pi
 - slug: hstouch
   name: HSTouch
 - slug: infrared
@@ -78,6 +80,8 @@
   name: Popp
 - slug: python
   name: Python
+- slug: raspberry_pi
+  name: Raspberry Pi
 - slug: road_to_hs3
   name: 'Road to HS3'
 - slug: rfxcom
