@@ -108,6 +108,8 @@
   name: Vera 3
 - slug: veralite
   name: Vera Lite
+- slug: veraedge
+  name: VeraEdge
 - slug: x10
   name: X10
 - slug: xpl
