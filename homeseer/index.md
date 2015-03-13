@@ -44,7 +44,17 @@ Ever wondered what the latest HomeSeer version is? Lost track of your beta versi
 [9]: {{site.url}}/2014/08/28/enable_remote_plugins_homeseer_zee_hs3pi/
 [10]: https://github.com/ihomeautomate/homeseer-lazybones-templates
 [11]: https://github.com/ihomeautomate/gradle-homeseer-plugin
-  
+
+## Road to HS3
+
+<div class="archive-wrap">
+<ul class="th-grid"> 
+ {% for post in site.tags['road_to_hs3'] %}
+      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.teaser }}" alt=""></a></li>
+ {% endfor %}
+</ul>
+</div><!-- /.archive-wrap -->
+
 ## HomeSeer articles
 
 <ul>
