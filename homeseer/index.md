@@ -43,21 +43,39 @@ Ever wondered what the latest HomeSeer version is? Lost track of your beta versi
 [8]: http://homeseer.com/updates3/hs3_linux_3_0_0_149.tar.gz
 [9]: {{site.url}}/2014/08/28/enable_remote_plugins_homeseer_zee_hs3pi/
 [10]: https://github.com/ihomeautomate/homeseer-lazybones-templates
-[11]: https://github.com/ihomeautomate/gradle-homeseer-plugin  
+[11]: https://github.com/ihomeautomate/gradle-homeseer-plugin
+  
+## HomeSeer articles
 
+<ul>
+  {% assign count = 0 %}
+  {% if site.categories['homeseer'] %}
+    {% for post in site.categories['homeseer'] %}
+      {% if post.tags contains 'homeseer_changelog' %}
+      {% else %}
+        {% if count < 10 %}
+          {% assign count = count|plus:1 %}
+          {% include post-list.html %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  <li>
+    <a href="{{site.url}}/category/homeseer">All articles in the HomeSeer category</a>
+   </li>
+</ul>
+   
 ## HomeSeer changelog
- 
- <ul>
+
+<ul> 
  {% assign count = 0 %}
  {% for post in site.tags['homeseer_changelog'] %}
   {% if count < 5 %}
-       {% assign count = count|plus:1 %}
-      <li>
-        <a href="{{ post.url }}/">{{ post.date | date_to_string }} - {{ post.title }}</a>
-      </li>
+      {% assign count = count|plus:1 %}
+      {% include post-list.html %}
   {% endif %}
  {% endfor %}
  <li>
   <a href="{{site.url}}/tag/homeseer_changelog">More changelogs</a>
  </li>
- </u>
+</ul>
