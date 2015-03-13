@@ -54,10 +54,6 @@ Wondering what&#8217;s happened this week in HomeSeer land? Here&#8217;s an over
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLRadar][23] : [2.0.78.0][24]
 
-#### Homeseer 2
-
-No changes
-
  [1]: http://homeseer.com/updates3/descriptions/CM15A.htm
  [2]: http://homeseer.com/updates3/HSPI_CM15A_3_0_0_7.zip "Download"
  [3]: https://dl.dropboxusercontent.com/u/5041984/Pics/HAI%20Plugin/HAI_Plugin.html

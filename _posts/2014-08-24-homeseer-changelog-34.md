@@ -9,7 +9,6 @@ categories:
 tags:
   - homeseer
   - homeseer_changelog
-  - hs2
   - hs3
 ads: true
 comments: true  
@@ -52,10 +51,6 @@ Wondering what&#8217;s happened this week in HomeSeer land? Here&#8217;s an over
 ##### Plug-ins and scripts &#8211; Internet or network related
 
   * <img src="http://www.rhusoft.com/downloads/hs3/HSPI_WebScraper.gif" width="16" height="16" /> [Web Scraper][18] : [1.0.5.1][19]
-
-#### Homeseer 2
-
-No changes
 
  [1]: http://homeseer.com/updates3/descriptions/CurrentCost.htm
  [2]: http://homeseer.com/updates3/HSPI_CURRENTCOST_3_0_0_24.zip "Download"

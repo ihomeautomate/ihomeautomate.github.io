@@ -9,7 +9,6 @@ categories:
 tags:
   - homeseer
   - homeseer_changelog
-  - hs2
   - hs3
 ads: true
 comments: true  
@@ -48,10 +47,6 @@ Here&#8217;s the weekly overview of the latest updates in the Homeseer land #26.
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLRadar][15] : [2.0.75.0][16]
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLLED][17] : [1.0.42.0][18]
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLReminders][19] : [3.0.9.0][20]
-
-#### Homeseer 2
-
-No changes
 
  [1]: http://homeseer.com/updates3/descriptions/CM15A.htm
  [2]: http://homeseer.com/updates3/HSPI_CM15A_3_0_0_4.zip "Download"

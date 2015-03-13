@@ -9,7 +9,6 @@ categories:
 tags:
   - homeseer
   - homeseer_changelog
-  - hs2
   - hs3
 ads: true
 comments: true  
@@ -45,9 +44,6 @@ Here&#8217;s another weekly overview of the latest updates in the Homeseer world
 
   * <img src="http://www.automatedhomeonline.com/HomeSeer3/hspi_ultra1wire3.gif" width="16" height="16" /> [Ultra1Wire3 (1-Wire Environmental Sensors)][17] : [3.0.5324.31161][18]
 
-#### Homeseer 2
-
-No changes
 
  [1]: http://homeseer.com/updates3/descriptions/GlobalCache.htm
  [2]: http://homeseer.com/updates3/HSPI_GCIR_5_0_0_10.zip "Download"

@@ -9,7 +9,6 @@ categories:
 tags:
   - homeseer
   - homeseer_changelog
-  - hs2
   - hs3
 ads: true
 comments: true  
@@ -51,10 +50,6 @@ Here is this weeks overview of updates in Homeseer land #29.
 ##### Plug-ins and scripts &#8211; Utilities
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLLED][18] : [1.0.48.0][19]
-
-#### Homeseer 2
-
-No changes to report
 
  [1]: http://www.homeseer.com/updates3/hslinux_zee_3_0_0_106.tar.gz "Download"
  [2]: http://dl.dropbox.com/u/7088674/Homeseer3/BLRadioRA/BLRadioRA.htm

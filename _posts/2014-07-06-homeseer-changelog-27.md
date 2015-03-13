@@ -9,7 +9,6 @@ categories:
 tags:
   - homeseer
   - homeseer_changelog
-  - hs2
   - hs3
 ads: true
 comments: true  
@@ -46,10 +45,6 @@ Here&#8217;s the weekly overview of the latest updates in Homeseer land #27.
 ###### Plug-ins and scripts &#8211; Media plug-ins
 
   * <img src="http://homeseer.com/updates3/icons/SqueezeBoxPlugin.png" width="16" height="16" /> [SqueezeBox][15] : [3.1.2.3][16]
-
-#### Homeseer 2
-
-No changes
 
  [1]: http://homeseer.com/updates3/descriptions/ADIO100.htm
  [2]: http://homeseer.com/updates3/HSPI_ADIO100_3_0_0_25.zip "Download"
