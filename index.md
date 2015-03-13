@@ -7,7 +7,15 @@ image:
 
 
 <div class="tiles">
+{% assign count = 0 %}
 {% for post in site.posts %}
-	{% include post-grid.html %}
+  {% if post.tags contains 'homeseer_changelog' %}
+  
+  {% else %}
+      {% if count < 12 %}
+        {% assign count = count|plus:1 %}
+        {% include post-grid.html %}
+      {% endif %}
+  {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
