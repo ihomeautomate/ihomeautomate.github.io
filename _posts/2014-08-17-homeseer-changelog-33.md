@@ -16,41 +16,41 @@ comments: true
 ---
 Wondering what&#8217;s happened this week in HomeSeer land? Here&#8217;s an overview!
 
-#### Homeseer 3
+##### Homeseer 3
 
-##### Plug-ins and scripts &#8211; Beta plug-ins
+###### Plug-ins and scripts &#8211; Beta plug-ins
 
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer X10 CM15A (BETA)][1] : [BETA 3.0.0.7][2]
   * <img src="http://homeseer.com/updates3/icons/HAI.png" width="16" height="16" /> [HAI (BETA)][3] : [BETA 1.0.0.13][4]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer CURRENTCOST ENVI (BETA)][5] : [BETA 3.0.0.23][6]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer HSTouch Server][7] : [3.0.0.47][8]
 
-##### Plug-ins and scripts &#8211; Lighting & primary technology plug-ins
+###### Plug-ins and scripts &#8211; Lighting & primary technology plug-ins
 
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer Insteon][9] : [1.0.0.7][10]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer X10 CM11A/TI103][11] : [3.0.0.31][12]
 
-##### Plug-ins and scripts &#8211; Telephone, text and email integration
+###### Plug-ins and scripts &#8211; Telephone, text and email integration
 
   * <img src=" http://www.highpeak.co.za/updates3/icons/SMS-Gateway.jpg" width="16" height="16" /> [SMS-Gateway][13] : [3.0.24.20306][14]
 
-##### Plug-ins and scripts &#8211; Security plug-ins
+###### Plug-ins and scripts &#8211; Security plug-ins
 
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer DSC Security][15] : [3.0.0.38][16]
 
-##### Plug-ins and scripts &#8211; Weather plug-ins
+###### Plug-ins and scripts &#8211; Weather plug-ins
 
   * <img src="http://www.automatedhomeonline.com/HomeSeer3/hspi_ultranetatmo3.png" width="16" height="16" /> [UltraNetatmo3 (Netatmo Urban Weather Station)][17] : [3.0.5338.36116][18]
 
-##### Plug-ins and scripts &#8211; Internet or network related
+###### Plug-ins and scripts &#8211; Internet or network related
 
   * <img src="http://www.rhusoft.com/downloads/hs3/HSPI_WebScraper.gif" width="16" height="16" /> [Web Scraper][19] : [1.0.3.1][20]
 
-##### Plug-ins and scripts &#8211; Analog & digital input/output device support 
+###### Plug-ins and scripts &#8211; Analog & digital input/output device support 
 
   * <img src="http://dl.dropbox.com/u/7189079/Homeseer3/ETspotlight.gif " width="16" height="16" /> [Arduino Plugin][21] : [1.0.0.36 ][22]
 
-##### Plug-ins and scripts &#8211; Utilities
+###### Plug-ins and scripts &#8211; Utilities
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLRadar][23] : [2.0.78.0][24]
 

@@ -15,33 +15,33 @@ comments: true
 ---
 Another weekly overview of the latest updates in HomeSeer land.
 
-#### Homeseer 3
+##### Homeseer 3
 
-##### Plug-ins and scripts &#8211; Beta plug-ins
+###### Plug-ins and scripts &#8211; Beta plug-ins
 
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer Z-Wave (BETA)][1] : [BETA 3.0.0.168][2]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer Z-Wave Linux (BETA)][1] : [BETA 3.0.0.168][3]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer CURRENTCOST ENVI (BETA)][4] : [BETA 3.0.0.21][5]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer X10 CM15A (BETA)][6] : [BETA 3.0.0.6][7]
 
-##### Plug-ins and scripts &#8211; Audio / video and infra-red (ir) support
+###### Plug-ins and scripts &#8211; Audio / video and infra-red (ir) support
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLDenon][8] : [2.0.17.0][9]
   * <img src="http://www.automatedhomeonline.com/HomeSeer3/hspi_ultrapioneeravr3.png" width="16" height="16" /> [UltraPioneerAVR (Pioneer Audio Video Receiver)][10] : [3.0.5332.32987][11]
 
-##### Plug-ins and scripts &#8211; Pool controllers and interfaces
+###### Plug-ins and scripts &#8211; Pool controllers and interfaces
 
   * <img src="http://www.kinggraphicdesign.com/homeseer/aquaconnect/AC_logo_32.png" width="16" height="16" /> [AquaConnect][12] : [3.0.1.0][13]
 
-##### Plug-ins and scripts &#8211; Security plug-ins
+###### Plug-ins and scripts &#8211; Security plug-ins
 
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer DSC Security][14] : [3.0.0.37][15]
 
-##### Plug-ins and scripts &#8211; Weather plug-ins
+###### Plug-ins and scripts &#8211; Weather plug-ins
 
   * <img src="http://www.automatedhomeonline.com/HomeSeer3/hspi_ultranetatmo3.png" width="16" height="16" /> [UltraNetatmo3 (Netatmo Urban Weather Station)][16] : [3.0.5328.23276][17]
 
-##### Plug-ins and scripts &#8211; Utilities
+###### Plug-ins and scripts &#8211; Utilities
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLRadar][18] : [2.0.76.0][19]
 

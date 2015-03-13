@@ -15,32 +15,32 @@ comments: true
 ---
 Here&#8217;s another weekly overview of the latest updates in the Homeseer world #31.
 
-#### Homeseer 3
+##### Homeseer 3
 
-##### Plug-ins and scripts &#8211; Beta plug-ins
+###### Plug-ins and scripts &#8211; Beta plug-ins
 
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer Global Cache IR Controller (BETA)][1] : [BETA 5.0.0.10][2]
   * <img src="http://homeseer.com/updates3/icons/HAI.png" width="16" height="16" /> [HAI (BETA)][3] : [BETA 1.0.0.12][4]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer CURRENTCOST ENVI (BETA)][5] : [BETA 3.0.0.19][6]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer Z-Wave (BETA)][7] : [BETA 3.0.0.167][8]
 
-##### Plug-ins and scripts &#8211; Telephone, text and email integration
+###### Plug-ins and scripts &#8211; Telephone, text and email integration
 
   * <img src="http://www.automatedhomeonline.com/HomeSeer3/hspi_ultracid3.png" width="16" height="16" /> [UltraCID3 (Caller ID)][9] : [3.0.5323.32614][10]
 
-##### Plug-ins and scripts &#8211; Energy management 
+###### Plug-ins and scripts &#8211; Energy management 
 
   * <img src="http://www.automatedhomeonline.com/HomeSeer3/hspi_ultraecm3.gif" width="16" height="16" /> [UltraECM3 (Brultech Energy Consumption Monitor)][11] : [3.0.5324.31496][12]
 
-##### Plug-ins and scripts &#8211; Pool controllers and interfaces
+###### Plug-ins and scripts &#8211; Pool controllers and interfaces
 
   * <img src=" http://kinggraphicdesign.com/homeseer/aquaconnect/AC_logo_32.png" width="16" height="16" /> [AquaConnect][13] : [ 3.0.1.0][14]
 
-##### Plug-ins and scripts &#8211; Wireless receiver and transceiver support
+###### Plug-ins and scripts &#8211; Wireless receiver and transceiver support
 
   * <img src="http://homeseer.com/updates3/icons/rfxcom.gif" width="16" height="16" /> [RFXCOM][15] : [30.0.0.23][16]
 
-##### Plug-ins and scripts &#8211; Analog & digital input/output device support 
+###### Plug-ins and scripts &#8211; Analog & digital input/output device support 
 
   * <img src="http://www.automatedhomeonline.com/HomeSeer3/hspi_ultra1wire3.gif" width="16" height="16" /> [Ultra1Wire3 (1-Wire Environmental Sensors)][17] : [3.0.5324.31161][18]
 

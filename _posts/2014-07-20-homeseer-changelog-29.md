@@ -15,39 +15,39 @@ comments: true
 ---
 Here is this weeks overview of updates in Homeseer land #29.
 
-#### Homeseer 3
+##### Homeseer 3
 
-##### Homeseer updates &#8211; Control software
+###### Homeseer updates &#8211; Control software
 
   * HS3 Zee : [3.0.0.106][1]
 
-##### Plug-ins and scripts &#8211; Lighting & primary technology plug-ins
+###### Plug-ins and scripts &#8211; Lighting & primary technology plug-ins
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLRadioRA][2] : [2.0.3.0][3]
   * <img src="http://downloads.smartercontrol.net/hs3plugins/hue72.png" width="16" height="16" /> [﻿PHILIPSHUE][4] : [1.0.0.2][5]
   * <img src="http://homeseer.com/updates3/icons/Plug-In.gif" width="16" height="16" /> [HomeSeer Z-Wave][6] : [3.0.0.150][7]
 
-##### Plug-ins and scripts &#8211; Telephone, text and email integration
+###### Plug-ins and scripts &#8211; Telephone, text and email integration
 
   * <img src=" http://www.highpeak.co.za/updates3/icons/SMS-Gateway.jpg" width="16" height="16" /> [SMS-Gateway][8] : [3.0.23.17025][9]
 
-##### Plug-ins and scripts &#8211; Audio / video and infra-red (ir) support
+###### Plug-ins and scripts &#8211; Audio / video and infra-red (ir) support
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLOnkyo][10] : [2.0.14.0][11]
 
-##### Plug-ins and scripts &#8211; Camera support 
+###### Plug-ins and scripts &#8211; Camera support 
 
   * <img src="http://www.automatedhomeonline.com/HomeSeer3/hspi_ultranetcam3.png" width="16" height="16" /> [UltraNetCam3 (Network Camera)][12] : [3.0.5310.36393][13]
 
-##### Plug-ins and scripts &#8211; Wireless receiver and transceiver support
+###### Plug-ins and scripts &#8211; Wireless receiver and transceiver support
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLRF][14] : [2.0.62.0][15]
 
-##### Plug-ins and scripts &#8211; Media plug-ins
+###### Plug-ins and scripts &#8211; Media plug-ins
 
   * <img src="http://homeseer.com/updates3/icons/dlna.png" width="16" height="16" /> [MediaController][16] : [3.0.0.6][17]
 
-##### Plug-ins and scripts &#8211; Utilities
+###### Plug-ins and scripts &#8211; Utilities
 
   * <img src="http://dl.dropbox.com/u/7088674/Homeseer3/BladeLogo.gif" width="16" height="16" /> [BLLED][18] : [1.0.48.0][19]
 
