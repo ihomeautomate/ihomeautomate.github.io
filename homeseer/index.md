@@ -2,8 +2,8 @@
 title: All about HomeSeer
 author: iHomeAutomate
 layout: article
-dsq_thread_id:
-  - 2747464676
+ads: true
+toc: true
 ---
 ## Latest versions
 
@@ -32,15 +32,25 @@ Ever wondered what the latest HomeSeer version is? Lost track of your beta versi
 
   * [HomeSeer lazybones templates][10] 
   * [Gradle HomeSeer plugin][11]
+  
+[1]: ftp://ftp.homeseer.com/pub/setuphs2_5_0_49.exe
+[2]: ftp://ftp.homeseer.com/pub/HomeSeerUpdate2_5_0_81.exe
+[3]: ftp://ftp.homeseer.com/pub/setuphspro2_5_0_49.exe
+[4]: ftp://ftp.homeseer.com/pub/HomeSeerUpdateHSPRO2_5_0_81.exe
+[5]: http://www.homeseer.com/updates3/SetupHS3_3_0_0_97.exe
+[6]: http://www.homeseer.com/updates3/hslinux_zee_3_0_0_143.tar.gz
+[7]: ftp://ftp.homeseer.com/updates/Beta/SetupHS3_3_0_0_143.exe
+[8]: http://homeseer.com/updates3/hs3_linux_3_0_0_143.tar.gz
+[9]: {{site.url}}/2014/08/28/enable_remote_plugins_homeseer_zee_hs3pi/
+[10]: https://github.com/ihomeautomate/homeseer-lazybones-templates
+[11]: https://github.com/ihomeautomate/gradle-homeseer-plugin  
 
- [1]: ftp://ftp.homeseer.com/pub/setuphs2_5_0_49.exe
- [2]: ftp://ftp.homeseer.com/pub/HomeSeerUpdate2_5_0_81.exe
- [3]: ftp://ftp.homeseer.com/pub/setuphspro2_5_0_49.exe
- [4]: ftp://ftp.homeseer.com/pub/HomeSeerUpdateHSPRO2_5_0_81.exe
- [5]: http://www.homeseer.com/updates3/SetupHS3_3_0_0_97.exe
- [6]: http://www.homeseer.com/updates3/hslinux_zee_3_0_0_143.tar.gz
- [7]: ftp://ftp.homeseer.com/updates/Beta/SetupHS3_3_0_0_143.exe
- [8]: http://homeseer.com/updates3/hs3_linux_3_0_0_143.tar.gz
- [9]: 2014/08/28/enable_remote_plugins_homeseer_zee_hs3pi/
- [10]: https://github.com/ihomeautomate/homeseer-lazybones-templates
- [11]: https://github.com/ihomeautomate/gradle-homeseer-plugin
+## HomeSeer changelog
+ 
+ <ul>
+ {% for post in site.tags['homeseer_changelog'] %}
+    <li>
+    <a href="{{ post.url }}/">{{ post.date | date_to_string }} - {{ post.title }}</a>
+    </li>
+ {% endfor %}
+ </u>
