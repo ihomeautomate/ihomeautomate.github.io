@@ -12,7 +12,7 @@ image:
   {% if post.tags contains 'homeseer_changelog' %}
   
   {% else %}
-      {% if count < 12 %}
+      {% if count < 16 %}
         {% assign count = count|plus:1 %}
         {% include post-grid.html %}
       {% endif %}

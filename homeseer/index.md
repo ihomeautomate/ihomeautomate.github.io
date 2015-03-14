@@ -5,22 +5,6 @@ layout: article
 ads: true
 toc: true
 ---
-## Latest versions
-
-Ever wondered what the latest HomeSeer version is? Lost track of your beta versions? You're not alone :-), below is a list we'll try to keep up to date.
-
-### official releases
-
-  * [HomeSeer HS2 2.5.0.49 (installer)][1] update to [HS2 2.5.0.81 (update)][2] (Windows)
-  * [HomeSeer HS2PRO 2.5.0.49 (installer)][3] update to [HS2PRO 2.5.0.81 (update)][4] (Windows)
-  * [HomeSeer HS3/HS3PRO 3.0.0.97 (installer)][5] (Windows)
-  * [HomeSeer HS3 Zee 3.0.0.155][6] (HomeTroller Zee or HS3-Pi) 
-
-### beta
-
-  * [HomeSeer HS3/HS3PRO 3.0.0.154 (installer)][7] (Windows) 
-  * [HomeSeer HS3/HS3PRO 3.0.0.149][8] (Linux) 
-  * [HomeSeer HS3 Zee 3.0.0.155][6] (HomeTroller Zee or HS3-Pi) 
 
 ## iHomeAutomate tools and plugins
 
@@ -48,7 +32,7 @@ Ever wondered what the latest HomeSeer version is? Lost track of your beta versi
 
 ## Road to HS3
 
-Back in 2009 there was already talk about HomeSeer 3. Here's a compilation of [the road to what we now know as HS3][12]:
+We've prepared a compilation of chatter and rumours about HS3 from 2009 until 2013. Here is [the road to HS3][12]:
 
 <div class="archive-wrap">
 <ul class="th-grid"> 
@@ -60,23 +44,41 @@ Back in 2009 there was already talk about HomeSeer 3. Here's a compilation of [t
 
 ## HomeSeer articles
 
-<ul>
-  {% assign count = 0 %}
-  {% if site.categories['homeseer'] %}
-    {% for post in site.categories['homeseer'] %}
-      {% if post.tags contains 'homeseer_changelog' %}
-      {% else %}
-        {% if count < 10 %}
-          {% assign count = count|plus:1 %}
-          {% include post-list.html %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-  <li>
-    <a href="{{site.url}}/category/homeseer">All articles in the HomeSeer category</a>
-   </li>
+Interested in homemade HomeSeer plugins, hacks, information and tips, treats or tricks? Here are the latest articles in the <a href="{{site.url}}/category/homeseer">HomeSeer category</a>:
+
+<div class="archive-wrap">
+<ul class="th-grid">
+   {% assign count = 0 %}
+   {% if site.categories['homeseer'] %}
+     {% for post in site.categories['homeseer'] %}
+       {% if post.tags contains 'homeseer_changelog' %}
+       {% else %}
+         {% if count < 12 %}
+           {% assign count = count|plus:1 %}
+           <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.teaser }}" alt=""></a></li>
+         {% endif %}
+       {% endif %}
+     {% endfor %}
+   {% endif %}
 </ul>
+</div><!-- /.archive-wrap -->
+   
+## Latest versions
+
+Ever wondered what the latest HomeSeer version is? Lost track of your beta versions? You're not alone :-), below is a list we'll try to keep up to date.
+
+### official releases
+
+  * [HomeSeer HS2 2.5.0.49 (installer)][1] update to [HS2 2.5.0.81 (update)][2] (Windows)
+  * [HomeSeer HS2PRO 2.5.0.49 (installer)][3] update to [HS2PRO 2.5.0.81 (update)][4] (Windows)
+  * [HomeSeer HS3/HS3PRO 3.0.0.97 (installer)][5] (Windows)
+  * [HomeSeer HS3 Zee 3.0.0.155][6] (HomeTroller Zee or HS3-Pi) 
+
+### beta
+
+  * [HomeSeer HS3/HS3PRO 3.0.0.154 (installer)][7] (Windows) 
+  * [HomeSeer HS3/HS3PRO 3.0.0.149][8] (Linux) 
+  * [HomeSeer HS3 Zee 3.0.0.155][6] (HomeTroller Zee or HS3-Pi)    
    
 ## HomeSeer changelog
 
