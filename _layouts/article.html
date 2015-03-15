@@ -43,16 +43,28 @@ layout: default
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
 				<hr />
+
 				<footer class="page-footer">
 					{% if page.categories %}{% include page-author.html %}{% endif %}
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
-				<aside>
-					{% if page.comments == true %}{% include comments.html %}{% endif %}
-				</aside>
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
-		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
-	</article><!-- ./wrap -->
+    {% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+  </article><!-- ./wrap -->
+  {% if page.path contains '_posts' %}
+  <div class="wrap">
+    {% include related-post.html %}
+  </div><!-- /.wrap -->
+  {% endif %}
+  {% if page.comments == true %}
+  <div class="wrap">
+    <aside class="inner-wrap">{% include comments.html %}</aside>
+    {% if page.ads == true %}<div class="sidebar ads">{% include advertising-comments.html %}</div><!-- /.ads -->{% endif %}
+  </div><!-- /.wrap -->
+  {% endif %}
+
 </div><!-- /#main -->
+
+

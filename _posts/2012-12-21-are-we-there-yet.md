@@ -12,7 +12,9 @@ tags:
 image:
   teaser: 2012/12/CUBA-MAYAN_CEREMON_400x250.jpg
   feature: road_to_hs3_1024x256.jpg  
-excerpt: 'Quick post before end-of-year activities :-). Here’s what’s new in the HS3 universe.'  
+excerpt: 'Quick post before end-of-year activities :-). Here’s what’s new in the HS3 universe.'
+comments: true
+ads: true
 ---
 Quick post before end-of-year activities :-). Here&#8217;s what&#8217;s new in the HS3 universe:
 
