@@ -12,10 +12,13 @@ image:
   {% if post.tags contains 'homeseer_changelog' %}
   
   {% else %}
+    {% if post.categories contains 'projects' %}
+    {% else %}
       {% if count < 16 %}
         {% assign count = count|plus:1 %}
         {% include post-grid.html %}
       {% endif %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->

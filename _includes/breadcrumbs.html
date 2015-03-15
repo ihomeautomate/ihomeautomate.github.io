@@ -5,9 +5,16 @@
         <span itemprop="title">Home</span>
       </a> ›
     <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="{{ site.url }}/category/{{ page.categories | first }}/" itemprop="url">
-        <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
-      </a>
+      {% if page.project and page.project == true %}
+        <a href="{{ site.url }}/{{ page.categories | first }}/" itemprop="url">
+          <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}/category/{{ page.categories | first }}/" itemprop="url">
+          <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
+        </a>
+      {% endif %}
+
     </span>
   </nav><!-- /.breadcrumbs -->
 {% endif %}

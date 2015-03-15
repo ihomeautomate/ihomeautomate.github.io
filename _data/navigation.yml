@@ -3,4 +3,9 @@
 - title: HomeSeer
   url: /homeseer/
   excerpt: "All about the latest HomeSeer goodies"
-  image: 400x250.gif
+  image: homeseer_400x250.png
+
+- title: Projects
+  url: /projects/
+  excerpt: "A small selection of homemade projects we've developed"
+  image: homemade_400x250.png

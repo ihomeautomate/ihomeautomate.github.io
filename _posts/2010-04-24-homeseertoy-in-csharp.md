@@ -11,7 +11,7 @@ image:
   teaser: 2010/05/HomeSeerToy-400x250.jpg
 disqus_identifier: '76 http://smart-living.geoblog.be/?p=76'
 categories:
-  - HomeSeer 
+  - homeseer 
 tags:
   - homeseer
   - dotnet
