@@ -1,8 +1,17 @@
 <div class="related-posts">
   <h3>Read This Next</h3>
   <div class="tiles">
-    {% for post in site.related_posts limit:4 %}
-    {% include post-grid.html %}
-    {% endfor %}
+    {% assign category = page.categories | first %}
+    {% assign count = 0 %}
+    {% if site.categories[category] %}
+      {% for post in site.categories[category] %}
+        {% if post.id != page.id %}
+          {% if count < 4 %}
+            {% assign count = count|plus:1 %}
+            {% include post-grid.html %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </div>
 </div>
