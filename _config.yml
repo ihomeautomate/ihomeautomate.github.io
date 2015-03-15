@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: iHomeAutomate
-description: Tips and information about Home Automation - Tutorials, experiences, applications that make Home Automation easier
+description: Tips and information about home automation - Tutorials, experiences, applications that make home automation easier
 logo: # 120x120 px default image used for Twitter summary card
 teaser: home-400x250.png # 400x250 px default teaser image used in image archive grid
 locale:
