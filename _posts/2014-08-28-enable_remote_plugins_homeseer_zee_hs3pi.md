@@ -9,6 +9,7 @@ categories:
 tags:
   - csharp
   - homeseer
+  - homeseer3
   - hs3
   - hs3-pi
 comments: true

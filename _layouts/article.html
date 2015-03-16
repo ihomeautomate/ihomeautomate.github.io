@@ -12,7 +12,7 @@ layout: default
       {% endif %}
     {% endfor %}
     {% if tag %}
-      {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.url }}/tag/{{ tag.slug }}" class="btn badge info">{{ tag.name }}</a> {% endcapture %}
+      {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.url }}/tag/{{ tag.slug }}" class="btn badge btn-mini">{{ tag.name | downcase}}</a> {% endcapture %}
       {% assign tags_content = tags_content_temp %}
     {% endif %}
   {% endfor %}
@@ -31,9 +31,7 @@ layout: default
 		</div><!-- /.page-feature -->
 		{% endif %}
 		{% include breadcrumbs.html %}
-    <div class="badges">
-      {{ tags_content }}
-    </div>
+    {{ tags_content }}
 
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>

@@ -8,6 +8,7 @@ categories:
   - homeseer
 tags:
   - homeseer
+  - homeseer3
   - hs3
   - hs3-pi
   - raspberry_pi

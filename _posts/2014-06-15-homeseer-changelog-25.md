@@ -10,6 +10,7 @@ tags:
   - homeseer
   - homeseer_changelog
   - hs2
+  - homeseer3
   - hs3
 ads: true
 comments: true  

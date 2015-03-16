@@ -9,6 +9,7 @@ categories:
 tags:
   - homeseer
   - homeseer_changelog
+  - homeseer3
   - hs3
 ads: true
 comments: true  

@@ -10,6 +10,7 @@ tags:
   - dotnet
   - csharp
   - homeseer
+  - homeseer3
   - hs3
 image:
   teaser: 2014/02/building-blocks-400x250.jpg

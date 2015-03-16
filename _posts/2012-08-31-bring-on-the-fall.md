@@ -8,7 +8,8 @@ categories:
   - homeseer
 tags:
   - homeseer
-  - hs3
+  - homeseer3
+  - hs3 
   - road_to_hs3
 image:
   teaser: 2012/08/fall-400x250.jpg

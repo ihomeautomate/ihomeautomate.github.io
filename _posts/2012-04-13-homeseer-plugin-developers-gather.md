@@ -11,6 +11,7 @@ tags:
   - csharp
   - homeseer
   - hs2
+  - homeseer3
   - hs3
   - mono
   - road_to_hs3
