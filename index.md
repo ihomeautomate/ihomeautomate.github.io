@@ -14,7 +14,7 @@ image:
   {% else %}
     {% if post.categories contains 'projects' %}
     {% else %}
-      {% if count < 16 %}
+      {% if count < 50 %}
         {% assign count = count|plus:1 %}
         {% include post-grid.html %}
       {% endif %}
