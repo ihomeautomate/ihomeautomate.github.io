@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+	<div class="wrap">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		<div class="page-title">
+			{% if page.title %}
+          <h1>{{ page.title }}</h1>
+      {% else %}
+          <h1>Posts from the year {{page.year}}</h1>
+      {% endif %}
+		</div>
+		<div class="archive-wrap">
+			<div class="page-content">
+				<div class="tiles">
+				{% for post in site.posts %}
+					{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+					{% if this_year == page.year %}
+				  		{% include post-grid.html %}
+					{% else %}
+					{% endif %}
+				{% endfor %}
+				</div>
+			</div><!-- /.page-content -->
+		</div class="archive-wrap"><!-- /.archive-wrap -->
+	</div><!-- /.wrap -->
+</div><!-- /#main -->
