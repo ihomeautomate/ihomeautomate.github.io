@@ -66,24 +66,36 @@
         <h1>{{site.title}}</h1>
         <h2>{{site.description}}</h2>
 
-        <a href="https://twitter.com/{{ site.owner.twitter }}" onclick="ga('send', 'event', 'link', 'click', 'Twitter follow');">
-				<span class="twitter fa-stack fa-lg">
-				  <i class="fa fa-circle fa-stack-2x"></i>
-				  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-				</span>
-        </a> &nbsp;
-        <a href="https://www.facebook.com/{{ site.owner.facebook }}" onclick="ga('send', 'event', 'link', 'click', 'Facebook follow');">
-				<span class="facebook fa-stack fa-lg">
-				  <i class="fa fa-circle fa-stack-2x"></i>
-				  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-				</span>
-          </a> &nbsp;
-          <a href="https://plus.google.com/{{ site.owner.google.plus }}" onclick="ga('send', 'event', 'link', 'click', 'Google+ follow');">
-				<span class="google-plus fa-stack fa-lg">
-				  <i class="fa fa-circle fa-stack-2x"></i>
-				  <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
-				</span>
+        <ul class="social-circles">
+          <a href="https://twitter.com/{{ site.owner.twitter }}" onclick="ga('send', 'event', 'footer', 'click', 'Twitter follow');">
+  				<span class="twitter fa-stack fa-lg">
+  				  <i class="fa fa-circle fa-stack-2x"></i>
+  				  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+  				</span>
           </a>
+          <a href="https://www.facebook.com/{{ site.owner.facebook }}" onclick="ga('send', 'event', 'footer', 'click', 'Facebook follow');">
+  				<span class="facebook fa-stack fa-lg">
+  				  <i class="fa fa-circle fa-stack-2x"></i>
+  				  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+  				</span>
+          <a href="https://plus.google.com/{{ site.owner.google.plus }}" onclick="ga('send', 'event', 'footer', 'click', 'Google+ follow');">
+  				<span class="google-plus fa-stack fa-lg">
+  				  <i class="fa fa-circle fa-stack-2x"></i>
+  				  <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+  				</span>
+          <a href="https://github.com/{{ site.owner.github }}" onclick="ga('send', 'event', 'footer', 'click', 'Github follow');">
+                <span class="github fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+          </a>
+          <!--<li><a href="http://feeds.feedburner.com/iHomeAutomate" onclick="ga('send', 'event', 'footer', 'click', 'RSS feed');">-->
+          <!--<span class="rss fa-stack fa-lg">-->
+          <!--<i class="fa fa-circle fa-stack-2x"></i>-->
+          <!--<i class="fa fa-rss fa-stack-1x fa-inverse"></i>-->
+          <!--</span>-->
+          <!--</a></li>-->
+        </ul>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
