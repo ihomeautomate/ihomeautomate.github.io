@@ -79,20 +79,17 @@
 		background-color: lighten($danger-color, 10);
 	}
 }
+
+$social:
+(facebook, $facebook-color),
+(google-plus, $google-plus-color),
+(instagram, $instagram-color),
+(rss, $rss-color),
+(tumblr, $tumblr-color),
+(twitter, $twitter-color),
+(github, $github-color);
+
 .btn-social {
-	$social: 
-    (facebook, $facebook-color),
-		(flickr, $flickr-color),
-		(foursquare, $foursquare-color),
-		(google-plus, $google-plus-color),
-		(instagram, $instagram-color),
-		(linkedin, $linkedin-color),
-		(pinterest, $pinterest-color),
-		(rss, $rss-color),
-		(tumblr, $tumblr-color),
-		(twitter, $twitter-color),
-		(vimeo, $vimeo-color),
-		(youtube, $youtube-color);
 	@extend .btn-inverse;
 	color: $text-color !important;
 	&:visited,
@@ -103,7 +100,7 @@
 	@each $socialnetwork, $color in $social {
 		i.fa-#{$socialnetwork} {
 	    color: $color;
-    }    
+    }
 	}
 	&:hover {
 		color: $white !important;
@@ -115,8 +112,21 @@
 		    @each $socialnetwork, $color in $social {
 					i.fa-#{$socialnetwork} {
 				    color: $white;
-			    }    
+			    }
 				}
-	    }    
+	    }
 	}
+}
+
+/* Circular icon only buttons */
+
+.social-circles {
+  @each $socialnetwork, $color in $social {
+	.#{$socialnetwork} {
+	  color: $color;
+	  &:hover {
+		color: mix($black, $color, 25%);
+	  }
+	}
+  }
 }

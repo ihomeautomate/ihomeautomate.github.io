@@ -3,6 +3,14 @@
 
 .wrap {
   @include outer-container;
+  padding: $gutter;
+  // box-shadow: 0 0 5px mix($black, $background-color, 20%);
+  @include media($medium) {
+    padding: (2 * $gutter);
+  }
+  @include media($large) {
+    padding: (1.25 * $gutter) (2.5 * $gutter);
+  }
 }
 
 .come-in {

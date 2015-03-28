@@ -34,45 +34,17 @@
 // --------------------------------------------------
 
 .menu {
-	li {
-		float: left;
-		&:last-child a {
-			@include media($medium) {
-				margin-right: 0; // remove spacing from last menu link
-			}
-		}
-		a {
-			// line hover effect
-			position: relative;
-			display: block;
-			margin-right: $gutter;
-			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
-			height: $masthead-height;
-			font-family: $alt-font;
-			&:before,
-			&:after {
-				content: '';
-				display: block;
-				position: absolute;
-				top: 0;
-				left: 0;
-				height: 2px;
-				@include transition(width 0.3s);
-			}
-			&:before {
-				width: 100%;
-				background: transparent;
-			}
-			&:after {
-				width: 0;
-				background: $black;
-			}
-			&:active:after,
-			&:hover:after {
-				width: 100%;
-			}
-		}
+  li {
+	display: inline-block;
+	&:last-child a {
+	  @include media($large) {
+		margin-right: 0; /* remove spacing from last menu link */
+	  }
 	}
+	a:hover {
+	  color: $primary-color;
+	}
+  }
 }
 
 .top-menu {

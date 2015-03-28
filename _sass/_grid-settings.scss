@@ -4,6 +4,7 @@
 $visual_grid: false;
 
 // Define your breakpoints
+$micro-only: new-breakpoint(min-width em(240) max-width em(480) 12);
 $short: new-breakpoint(max-height em(700) 12);
 $micro: new-breakpoint(min-width em(240) max-width em(480) 12);
 $small: new-breakpoint(min-width em(480) max-width em(767) 12);
