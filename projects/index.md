@@ -1,6 +1,6 @@
 ---
 title: Projects
-excerpt: "A collection of homemade projects we wanted to share"
+excerpt: "A collection of homemade projects we want to share"
 author: iHomeAutomate
 layout: archive
 ads: true
