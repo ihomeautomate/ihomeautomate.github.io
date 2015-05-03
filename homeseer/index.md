@@ -30,6 +30,7 @@ toc: true
 [11]: https://github.com/ihomeautomate/gradle-homeseer-plugin
 [12]: {{site.url}}/tag/road_to_hs3
 [13]: http://www.homeseer.com/updates3/hslinux_hs3_3_0_0_171.tar.gz
+[14]: http://www.homeseer.com/updates3/hslinux_zee_3_0_0_171.tar.gz
 
 ## Road to HS3
 
@@ -80,7 +81,7 @@ Ever wondered what the latest HomeSeer version is? Lost track of your beta versi
 
   * [HomeSeer HS3/HS3PRO 3.0.0.171 (installer)][7] (Windows) 
   * [HomeSeer HS3/HS3PRO 3.0.0.171][13] (Linux) 
-  * [HomeSeer HS3 Zee 3.0.0.171][6] (HomeTroller Zee or HS3-Pi)    
+  * [HomeSeer HS3 Zee 3.0.0.171][14] (HomeTroller Zee or HS3-Pi)    
    
 ## HomeSeer changelog
 
