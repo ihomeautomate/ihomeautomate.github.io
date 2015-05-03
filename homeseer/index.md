@@ -21,14 +21,15 @@ toc: true
 [2]: ftp://ftp.homeseer.com/pub/HomeSeerUpdate2_5_0_81.exe
 [3]: ftp://ftp.homeseer.com/pub/setuphspro2_5_0_49.exe
 [4]: ftp://ftp.homeseer.com/pub/HomeSeerUpdateHSPRO2_5_0_81.exe
-[5]: http://www.homeseer.com/updates3/SetupHS3_3_0_0_97.exe
-[6]: http://www.homeseer.com/updates3/hslinux_zee_3_0_0_155.tar.gz
-[7]: ftp://ftp.homeseer.com/updates/Beta/SetupHS3_3_0_0_154.exe
-[8]: http://homeseer.com/updates3/hs3_linux_3_0_0_149.tar.gz
+[5]: http://www.homeseer.com/updates3/SetupHS3_3_0_0_163.exe
+[6]: http://www.homeseer.com/updates3/hslinux_zee_3_0_0_152.tar.gz
+[7]: http://homeseer.com/updates3/SetupHS3_3_0_0_171.exe
+[8]: http://www.homeseer.com/updates3/hslinux_hs3_3_0_0_163.tar.gz
 [9]: {{site.url}}/2014/08/28/enable_remote_plugins_homeseer_zee_hs3pi/
 [10]: https://github.com/ihomeautomate/homeseer-lazybones-templates
 [11]: https://github.com/ihomeautomate/gradle-homeseer-plugin
 [12]: {{site.url}}/tag/road_to_hs3
+[13]: http://www.homeseer.com/updates3/hslinux_hs3_3_0_0_171.tar.gz
 
 ## Road to HS3
 
@@ -71,14 +72,15 @@ Ever wondered what the latest HomeSeer version is? Lost track of your beta versi
 
   * [HomeSeer HS2 2.5.0.49 (installer)][1] update to [HS2 2.5.0.81 (update)][2] (Windows)
   * [HomeSeer HS2PRO 2.5.0.49 (installer)][3] update to [HS2PRO 2.5.0.81 (update)][4] (Windows)
-  * [HomeSeer HS3/HS3PRO 3.0.0.97 (installer)][5] (Windows)
-  * [HomeSeer HS3 Zee 3.0.0.155][6] (HomeTroller Zee or HS3-Pi) 
+  * [HomeSeer HS3/HS3PRO 3.0.0.163 (installer)][5] (Windows)
+  * [HomeSeer HS3 Zee 3.0.0.152][6] (HomeTroller Zee or HS3-Pi)
+  * [HomeSeer HS3/HS3PRO 3.0.0.163][8] (Linux)
 
 ### beta
 
-  * [HomeSeer HS3/HS3PRO 3.0.0.154 (installer)][7] (Windows) 
-  * [HomeSeer HS3/HS3PRO 3.0.0.149][8] (Linux) 
-  * [HomeSeer HS3 Zee 3.0.0.155][6] (HomeTroller Zee or HS3-Pi)    
+  * [HomeSeer HS3/HS3PRO 3.0.0.171 (installer)][7] (Windows) 
+  * [HomeSeer HS3/HS3PRO 3.0.0.171][13] (Linux) 
+  * [HomeSeer HS3 Zee 3.0.0.171][6] (HomeTroller Zee or HS3-Pi)    
    
 ## HomeSeer changelog
 
