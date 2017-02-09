@@ -6,14 +6,11 @@ layout: article
 permalink: /2017/02/09/solve_sqlite3_column_database_name_error/
 categories:
   - homeseer3
-  - mono
-  - sqlite
 tags:
-  - homeseer3
   - hs3
-  - mono
   - dotnet
   - csharp
+  - mono
   - sqlite3
   - sqlite
 comments: true
