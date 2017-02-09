@@ -6,6 +6,12 @@
   name: Python
 - slug: dotnet
   name: .NET
+- slug: mono
+  name: Mono
+- slug: sqlite
+  name: Sqlite
+- slug: sqlite3
+  name: Sqlite3
 - slug: csharp
   name: 'C#'
 - slug: infrared

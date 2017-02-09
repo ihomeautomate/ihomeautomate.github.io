@@ -120,3 +120,9 @@
   name: ZigBee
 - slug: z-wave
   name: Z-Wave
+- slug: mono
+  name: Mono
+- slug: sqlite3
+  name: Sqlite3
+- slug: sqlite
+  name: Sqlite
