@@ -5,8 +5,9 @@ excerpt: 'sqlite3 on mac with mono, solved!'
 layout: article
 permalink: /2017/02/09/solve_sqlite3_column_database_name_error/
 categories:
-  - homeseer3
+  - homeseer
 tags:
+  - homeseer3
   - hs3
   - dotnet
   - csharp
