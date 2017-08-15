@@ -48,4 +48,4 @@ The wireless module is powered from the mains supply and is a three-wire design 
 
 <cite>Source: manuals found on the website of several web-shops</cite>
 
- [1]: http://{{site.url}}/2011/09/11/z-wave-micro-modules/
+ [1]: {{site.url}}/2011/09/11/z-wave-micro-modules/
