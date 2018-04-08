@@ -14,7 +14,7 @@ tags:
   - mono
   - sqlite3
   - sqlite
-comments: true
+comments: false
 ads: true
 image:
   teaser: 2017/02/sqlite3.png
