@@ -13,7 +13,7 @@ tags:
 image:
   teaser: /2013/11/second-chance-400x250.jpg
   feature: road_to_hs3_1024x256.jpg
-comments: true
+comments: false
 ads: true  
 ---
 HS3, the (beta) linux binaries are released, so I immediately fiddled with it on my mac <img src="http://www.ihomeautomate.eu/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />

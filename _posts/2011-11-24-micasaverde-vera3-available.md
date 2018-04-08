@@ -12,7 +12,7 @@ tags:
   - vera3
   - veralite
   - z-wave
-comments: true
+comments: false
 ads: true
 image:
   teaser: /2011/11/vera_3_head_400x250.jpg

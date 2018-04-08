@@ -12,7 +12,7 @@ tags:
   - homeseer3
   - hs3
   - hs3-pi
-comments: true
+comments: false
 ads: true
 image:
   teaser: 2014/08/remote-connections_400x250.png

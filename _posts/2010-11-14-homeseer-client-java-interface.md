@@ -14,7 +14,7 @@ tags:
   - homeseer
   - hstouch
   - java
-comments: true
+comments: false
 ads: true
 ---
 As you can read in previous post(s) I have been playing around on the Android platform to get a (simple) HSTouch replacement on my mobile device. Since a few months an official (beta) HSTouch for Android is published, so I was thinking of re-using part of my Android code as a library for a 100% pure java HomeSeer client, and I moved on to the official HSTouch (beta) on my Android mobile device.

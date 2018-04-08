@@ -13,7 +13,7 @@ tags:
   - homeseer3
   - hs3
 ads: true
-comments: true  
+comments: false  
 ---
 Here&#8217;s the weekly Homeseer changelog #25.
 

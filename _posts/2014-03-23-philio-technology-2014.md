@@ -12,7 +12,7 @@ tags:
   - philio_technology
 image:
   teaser: 2014/03/philio-logo-400x250.png
-comments: true
+comments: false
 ads: true  
 ---
 <a href="http://www.philio-tech.com/" target="_blank">Philio Technology</a> (Taiwan), established in May 2012, found their spot in the <a title="Z-Wave Alliance" href="http://www.z-wavealliance.org/" target="_blank">Z-Wave Alliance</a> booth at <a title="Z-Wave Alliance" href="http://www.cebit.de/home" target="_blank">CeBIT 2014</a> in Hannover and presented the new additions to their Z-Wave product catalogue for 2014.

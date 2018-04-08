@@ -14,7 +14,7 @@ tags:
 image:
   teaser: 2011/09/homeseer.groovy.400x250.jpg
   feature: 2011/09/homeseer.groovy.1025x256.jpg
-comments: true
+comments: false
 ads: true  
 disqus_identifier: "351 http://www.ihomeautomate.eu/?p=351"
 ---

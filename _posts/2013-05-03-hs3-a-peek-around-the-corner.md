@@ -12,7 +12,7 @@ tags:
   - hs3
   - road_to_hs3
 disqus_identifier: "829 http://www.ihomeautomate.eu/?p=829"
-comments: true
+comments: false
 ads: true
 image:
   teaser: 2013/05/Teaser-Events-1-400x250.jpg

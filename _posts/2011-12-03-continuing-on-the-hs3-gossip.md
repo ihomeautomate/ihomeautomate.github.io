@@ -17,7 +17,7 @@ image:
   teaser: HomeSeer.Appetizer.400x250.jpg
   feature: road_to_hs3_1024x256.jpg
 disqus_identifier: "543 http://www.ihomeautomate.eu/?p=543"
-comments: true
+comments: false
 ads: true
 ---
 Last month, [Rich &#8220;rjh&#8221;][1] over at [HomeSeer][2] has revealed some nifty information regarding the upcoming HomeSeer 3. 

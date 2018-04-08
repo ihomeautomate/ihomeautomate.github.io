@@ -16,7 +16,7 @@ tags:
   - zigbee
 image:
   teaser: 2012/07/player-q-gallery-front-400x250.jpg
-comments: true
+comments: false
 ads: true
 ---
 ##### Stating facts:

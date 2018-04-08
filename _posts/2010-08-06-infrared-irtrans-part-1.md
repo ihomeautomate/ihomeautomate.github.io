@@ -13,7 +13,7 @@ tags:
   - ir
   - irtrans
 ads: true
-comments: true
+comments: false
 ---
 Requisites:
 

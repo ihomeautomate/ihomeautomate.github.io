@@ -12,7 +12,7 @@ tags:
   - homeseer3
   - hs3
 ads: true
-comments: true  
+comments: false  
 ---
 Wondering what’s new this week in the land of Homeseer? Nothing happening lately in HS2, looks like we all focus on HS3.
 

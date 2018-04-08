@@ -14,7 +14,7 @@ tags:
 image:
   teaser: HomeSeer.Appetizer.400x250.jpg
   feature: road_to_hs3_1024x256.jpg
-comments: true
+comments: false
 ads: true
 ---
 Not much more information yet, but still nice to continue HS3 gossip in 2012 :-). In case you are interested in previous episodes, [here][1] is where we left off.

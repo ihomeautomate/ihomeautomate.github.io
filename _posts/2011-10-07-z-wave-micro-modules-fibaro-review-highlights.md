@@ -11,7 +11,7 @@ tags:
   - micro_modules
   - z-wave
 ads: true
-comments: true
+comments: false
 disqus_identifier: '447 http://www.ihomeautomate.eu/?p=447'
 image:
   teaser: fibaro.logo_400x250.jpg

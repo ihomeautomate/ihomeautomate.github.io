@@ -7,7 +7,7 @@ permalink: /2010/05/01/homeseer-plugin-for-eventghost-source/
 image:
   teaser: hellohomeseer.jpg
 disqus_identifier: '4 http://smart-living.geoblog.be/?p=4'
-comments: true
+comments: false
 ads: true
 categories:
   - EventGhost

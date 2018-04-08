@@ -4,7 +4,7 @@ author: iHomeAutomate
 excerpt: 'Some tips and tricks to connect from a C# application to HomeSeer'
 layout: article
 permalink: /2010/04/24/homeseertoy-in-csharp/
-comments: true
+comments: false
 ads: true
 image:
   feature: 2010/05/HomeSeerToy.png

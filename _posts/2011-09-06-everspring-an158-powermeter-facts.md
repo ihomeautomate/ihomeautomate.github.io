@@ -13,7 +13,7 @@ tags:
   - homeseer
   - powermeter
   - z-wave
-comments: true
+comments: false
 ads: true
 image:
   teaser: an158-400x250.jpg

@@ -17,7 +17,7 @@ tags:
   - x10
 ads: true
 disqus_identifier: '101 http://smart-living.geoblog.be/?p=101'
-comments: true
+comments: false
 ---
 Some people are wondering what exactly needs to be installed to get the CM15A working with HomeSeer. Here you'll find a short summary of how I did it on my Windows XP HomeSeer machine.
 

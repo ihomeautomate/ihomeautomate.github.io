@@ -11,7 +11,7 @@ tags:
   - aeon_labs
   - z-wave
   - micro_modules
-comments: true
+comments: false
 ads: true
 image: 
   teaser: 2011/09/aeonlabs_micro_modules_400x250.png

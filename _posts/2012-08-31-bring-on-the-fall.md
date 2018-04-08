@@ -14,7 +14,7 @@ tags:
 image:
   teaser: 2012/08/fall-400x250.jpg
   feature: road_to_hs3_1024x256.jpg  
-comments: true
+comments: false
 ads: true
 ---
 Get back to school, get back to work&#8230; summertime is over! Here&#8217;s a short HS3 rumour round-up.

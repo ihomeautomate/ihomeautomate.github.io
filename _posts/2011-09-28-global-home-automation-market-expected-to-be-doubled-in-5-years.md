@@ -7,7 +7,7 @@ permalink: /2011/09/28/global-home-automation-market-expected-to-be-doubled-in-5
 categories:
   - news
 ads: true
-comments: true
+comments: false
 image:
   teaser: 2011/09/growth-graph-400x250.jpg
 ---

@@ -12,7 +12,7 @@ tags:
   - cebit
 image:
    teaser: 2014/03/aeotec_cebit_2014_400x250.jpg
-comments: true
+comments: false
 ads: true
 ---
 

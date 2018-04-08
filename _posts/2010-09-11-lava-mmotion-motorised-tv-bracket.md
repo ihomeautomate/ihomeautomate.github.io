@@ -13,7 +13,7 @@ tags:
   - home-entertainment
   - sony
   - tv
-comments: true
+comments: false
 ads: true
 ---
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - fibaro
   - z-wave
-comments: true
+comments: false
 ads: true
 image:
   teaser: 2014/03/Fibaro_HCL_400x250.jpg

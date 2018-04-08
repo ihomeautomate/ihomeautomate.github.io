@@ -14,7 +14,7 @@ tags:
 image:
   teaser: HomeSeer.Appetizer.400x250.jpg
   feature: road_to_hs3_1024x256.jpg
-comments: true
+comments: false
 ads: true
 ---
 I&#8217;ve compiled a list of statements and other chatter regarding HomeSeer 3 (in chronological order). For the latest gossip, scroll down :).

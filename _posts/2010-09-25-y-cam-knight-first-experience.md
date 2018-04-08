@@ -11,7 +11,7 @@ categories:
 tags:
   - ip-camera
   - y-cam
-comments: true
+comments: false
 ads: true
 ---
 

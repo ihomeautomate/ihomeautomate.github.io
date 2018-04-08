@@ -15,7 +15,7 @@ tags:
 image:
   teaser: 2014/02/building-blocks-400x250.jpg
 ads: true
-comments: true
+comments: false
 ---
 One of the big changes in HS3 is its communication framework. HS3 introduced `HSCF.dll`, from the HS3 SDK documentation:
 

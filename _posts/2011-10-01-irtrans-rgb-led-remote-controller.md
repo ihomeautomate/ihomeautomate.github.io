@@ -11,7 +11,7 @@ tags:
   - ir
   - irtrans
   - led
-comments: true
+comments: false
 ads: true
 image:
   teaser: 2011/10/rgbcontroller1-400x250.jpg

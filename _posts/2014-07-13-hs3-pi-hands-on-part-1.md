@@ -16,7 +16,7 @@ tags:
 image:
   teaser: 2014/07/raspberry_400x250.jpg
 ads: true
-comments: true  
+comments: false  
 ---
 For OSX people, here&#8217;s a little guide to get the [HS3-Pi image][1] up and running on your Raspberry Pi. People running another OS please refer to the [HS3-Pi install guide][2].
 

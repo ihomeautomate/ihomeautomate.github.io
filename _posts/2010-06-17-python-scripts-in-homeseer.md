@@ -13,7 +13,7 @@ tags:
   - python
   - script
 ads: true
-comments: true  
+comments: false  
 ---
 For a while I was searching an alternative to VBScript as script language within HomeSeer. I almost decided to go for C# and buying the [Script Connector Plugin](http://store.homeseer.com/store/Script-Connector-Plug-In-P460C155.aspx), but decided to try an out-of-box solution first. Python was first on my list.
 

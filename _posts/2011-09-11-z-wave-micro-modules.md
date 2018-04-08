@@ -11,7 +11,7 @@ tags:
   - fibaro
   - micro_modules
   - z-wave
-comments: true
+comments: false
 ads: true    
 disqus_identifier: '369 http://www.ihomeautomate.eu/?p=369'
 image:

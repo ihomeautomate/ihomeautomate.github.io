@@ -13,7 +13,7 @@ tags:
   - homeseer3
   - hs3
 ads: true
-comments: true  
+comments: false  
 ---
 Here&#8217;s this weeks overview of updates in Homeseer land #28.
 

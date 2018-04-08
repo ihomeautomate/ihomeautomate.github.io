@@ -9,7 +9,7 @@ categories:
 tags:
   - news
 ads: true
-comments: true
+comments: false
 image:
   teaser: February_calendar_400x250.jpg
 ---

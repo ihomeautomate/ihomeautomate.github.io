@@ -14,7 +14,7 @@ tags:
   - homeseer
   - hstouch
   - java
-comments: true
+comments: false
 ads: true
 ---
 Ouch, my smart phone running on Windows Mobile died! Nevertheless, it was time to get a new gadget! As introduction to the big world of Android smart phones, I got myself an HTC WildFire (running Android 2.1). Time to download the Android Development Kit!

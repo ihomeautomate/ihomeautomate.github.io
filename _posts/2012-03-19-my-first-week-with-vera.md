@@ -11,7 +11,7 @@ tags:
   - luup
   - vera
   - z-wave
-comments: true
+comments: false
 ads: true
 image:
   teaser: 2012/03/vera_melu_400x250.png

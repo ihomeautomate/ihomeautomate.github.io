@@ -14,7 +14,7 @@ tags:
   - z-wave
 image:
   teaser: 2012/01/fibaro.logo_.en_400x250.jpg  
-comments: true
+comments: false
 ads: true
 ---
 Here is an interview with the people behind the <a href="http://www.fibaro.com/" target="fibaro">Fibaro products</a>. If there is anything else you&#8217;ve wanted to know, feel free to comment :-). Enjoy!

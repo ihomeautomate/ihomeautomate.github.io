@@ -12,7 +12,7 @@ tags:
   - z-wave
 image:
   teaser: 2014/03/tkbhome-zwavealliance-400x250.jpg
-comments: true
+comments: false
 ads: true  
 ---
 

@@ -10,7 +10,7 @@ tags:
   - vera
   - veraedge
   - veralite
-comments: true
+comments: false
 ads: true
 image:
   teaser: 2014/11/veraedge_400x250.png

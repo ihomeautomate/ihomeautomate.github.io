@@ -16,7 +16,7 @@ tags:
   - z-wave
 image:
   teaser: 2011/10/duwi.ihomeautomate.blinds-400x250.jpg
-comments: true
+comments: false
 ads: true  
 ---
 A short summary of some of the notes I had available for those who want to figure out how to customize the Duwi sun blind control.
