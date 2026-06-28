@@ -25,9 +25,7 @@ owner:
   name: iHomeAutomate
   web: https://iHomeAutomate.com
   email:
-  google:
-    ad-client: ca-pub-8912601207925232
-    ad-slot: 5196264642
+
   bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
 
