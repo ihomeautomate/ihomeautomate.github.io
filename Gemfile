@@ -1,9 +1,8 @@
-# Skinny Bones Gemfile
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 2.4.0'
-gem 'jekyll-sitemap', '~> 0.6.1'
-gem 'sass'
-gem 'bourbon'
-gem 'neat'
-gem 'octopress', '~> 3.0.0.rc.12'
+gem 'jekyll', '~> 4.3'
+gem 'jekyll-sitemap'
+gem 'jekyll-gist'
+gem 'sassc'
+gem 'kramdown-parser-gfm'
+gem 'webrick'

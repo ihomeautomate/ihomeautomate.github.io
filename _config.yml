@@ -6,7 +6,6 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: home-400x250.png # 400x250 px default teaser image used in image archive grid
 locale:
 url: https://www.ihomeautomate.com
-#url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -16,20 +15,17 @@ sass:
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-gist
 
 
 # Site owner
 owner:
   name: iHomeAutomate
   web: https://iHomeAutomate.com
-  github: ihomeautomate
   email:
-  twitter: ihomeautomate
-  facebook: pages/iHomeAutomate/218034961586842
   google:
-    plus: +iHomeAutomateEU
     ad-client: ca-pub-8912601207925232
     ad-slot: 5196264642
   bio:
