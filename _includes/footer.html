@@ -3,7 +3,7 @@
 		<nav role="navigation" class="footer-menu">
 			<ul class="footer-links">
 				{% for link in site.data.footer %}
-				<li><a href="{{ link.url }}" onclick="ga('send', 'event', 'footer', 'click', '{{ link.title }}');">{% if link.icon %}<i class="fa {{ link.icon }}"></i> {% endif %}{{ link.title }}</a></li>
+				<li><a href="{{ link.url }}">{% if link.icon %}<i class="fa {{ link.icon }}"></i> {% endif %}{{ link.title }}</a></li>
 				{% endfor %}
 			</ul>
 	
