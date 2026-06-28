@@ -1,20 +1,30 @@
 {% if page.categories and page.categories != empty %}
   <nav class="breadcrumbs">
-    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="{{ site.url }}" itemprop="url">
-        <span itemprop="title">Home</span>
-      </a> ›
-    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      {% if page.project and page.project == true %}
-        <a href="{{ site.url }}/{{ page.categories | first }}/" itemprop="url">
-          <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
-        </a>
-      {% else %}
-        <a href="{{ site.url }}/category/{{ page.categories | first }}/" itemprop="url">
-          <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
-        </a>
-      {% endif %}
-
-    </span>
+    <a href="{{ site.url }}">Home</a> ›
+    {% if page.project and page.project == true %}
+      <a href="{{ site.url }}/{{ page.categories | first }}/">{{ page.categories | first | replace: '-',' ' | capitalize }}</a>
+    {% else %}
+      <a href="{{ site.url }}/category/{{ page.categories | first }}/">{{ page.categories | first | replace: '-',' ' | capitalize }}</a>
+    {% endif %}
   </nav><!-- /.breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ site.url }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ page.categories | first | replace: '-',' ' | capitalize }}",
+        "item": "{{ site.url }}{% if page.project %}/{{ page.categories | first }}/{% else %}/category/{{ page.categories | first }}/{% endif %}"
+      }
+    ]
+  }
+  </script>
 {% endif %}
