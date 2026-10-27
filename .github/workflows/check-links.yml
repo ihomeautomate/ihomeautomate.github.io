@@ -1,0 +1,36 @@
+name: Check Links
+
+on:
+  workflow_dispatch: # Allows manual trigger from GitHub UI (Actions -> Run workflow)
+  schedule:
+    - cron: '0 9 * * 1' # Optional: automatically run weekly on Monday at 09:00 UTC
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Run Lychee Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Check all generated HTML files in _site
+          args: >-
+            --no-progress
+            --base https://www.ihomeautomate.com
+            --exclude "mailto:.*"
+            --exclude "ftp://.*"
+            --exclude "javascript:.*"
+            _site
+          fail: false
+          jobSummary: true
