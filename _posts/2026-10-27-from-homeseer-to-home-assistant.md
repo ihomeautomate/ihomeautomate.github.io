@@ -1,7 +1,7 @@
 ---
 title: From HomeSeer HS3 to Home Assistant
 author: iHomeAutomate
-excerpt: 'I never made the jump to the latest HomeSeer versions. HS3 was the last one I used, until I moved to Home Assistant in the last silent years ;-)'
+excerpt: 'I never made the jump to the latest HomeSeer version. HS3 was the last one I used, until I moved to Home Assistant in the last years of silence ;-)'
 permalink: /2026/10/27/from-homeseer-to-home-assistant/
 categories:
   - homeseer
@@ -16,12 +16,14 @@ tags:
   - rfxcom
   - irtrans
   - infrared
+header:
+  teaser: /images/home-assistant-400x250.png
 published: true
 comments: false
 ---
-This blog started as a place to share tips and experiences about HomeSeer, so it feels strange to write this one: I moved my home automation to Home Assistant in the last silent years ;-)
+This blog started as a place to share tips and experiences about HomeSeer, so it feels strange to write this one: I moved my home automation to Home Assistant in the last years of silence ;-)
 
-I never upgraded to the latest HomeSeer versions. HS3 was the last HomeSeer version I ran, and it stayed that way until the switch.
+I never upgraded to the latest HomeSeer version. HS3 was the last HomeSeer version I ran, and it stayed that way until the switch.
 
 ## Staying on HS3
 
