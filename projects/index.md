@@ -1,13 +1,11 @@
 ---
 title: Projects
-excerpt: "A collection of homemade projects we want to share"
-author: iHomeAutomate
-layout: archive
-ads: true
+layout: single
+permalink: /projects/
 ---
 
-<div class="tiles">
+A collection of homemade projects we want to share.
+
 {% for post in site.categories.projects %}
-    {% include post-grid.html %}
+* [{{ post.title }}]({{ post.url }}) — {{ post.excerpt | strip_html | truncate: 100 }}
 {% endfor %}
-</div><!-- /.tiles -->

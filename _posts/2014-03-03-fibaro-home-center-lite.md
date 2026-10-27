@@ -2,7 +2,6 @@
 title: Fibaro Home Center Lite
 author: iHomeAutomate
 excerpt: "Find out more about Fibaro's latest family member."
-layout: article
 permalink: /2014/03/03/fibaro-home-center-lite/
 categories:
   - fibaro
@@ -10,9 +9,8 @@ tags:
   - fibaro
   - z-wave
 comments: false
-ads: true
-image:
-  teaser: 2014/03/Fibaro_HCL_400x250.jpg
+header:
+  teaser: /images/2014/03/Fibaro_HCL_400x250.jpg
 ---
 The <a href="http://www.ihomeautomate.eu/2014/02/28/update-for-week-9-2014/" title="Fibaro Home Center Lite" target="_blank">rumoured Fibaro Home Center Lite</a> is expected to arrive this week in most European Z-Wave shops.
 

@@ -2,7 +2,6 @@
 title: Aeotec CeBIT 2014 spoilers
 author: iHomeAutomate
 excerpt: 'Read CeBITs latest spoilers from Aeotec by Aeon Labs and their product catalogue.'
-layout: article
 permalink: /2014/03/16/aeotec-cebit-2014-spoilers/
 categories:
   - news
@@ -10,10 +9,9 @@ tags:
   - aeon_labs
   - aeotec
   - cebit
-image:
-   teaser: 2014/03/aeotec_cebit_2014_400x250.jpg
+header:
+   teaser: /images/2014/03/aeotec_cebit_2014_400x250.jpg
 comments: false
-ads: true
 ---
 
 In the <a title="Z-Wave Alliance" href="http://www.z-wavealliance.org/" target="_blank">Z-Wave Alliance</a> booth at <a title="CeBIT 2014" href="/2014/03/08/z-wave-cebit-2014" target="_blank">CeBIT 2014</a> in Hannover <a href="http://aeotec.com/" target="_blank">Aeotec</a> by <a href="http://www.aeon-labs.com/" target="_blank">Aeon Labs</a> (USA) gave away their spoilers for (some of) their <a href="https://twitter.com/Aeotec/status/442652807469207552" target="_blank">new additions</a> to their Z-Wave product catalogue.

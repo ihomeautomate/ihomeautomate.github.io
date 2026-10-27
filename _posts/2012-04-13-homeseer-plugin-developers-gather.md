@@ -2,7 +2,6 @@
 title: Homeseer plugin developers gather!
 author: iHomeAutomate
 excerpt: 'Homeseer 3 changes for plugin developers'
-layout: article
 permalink: /2012/04/13/homeseer-plugin-developers-gather/
 categories:
   - homeseer
@@ -15,8 +14,8 @@ tags:
   - hs3
   - mono
   - road_to_hs3
-image:
-  teaser: HomeSeer.Appetizer.400x250.jpg
+header:
+  teaser: /images/HomeSeer.Appetizer.400x250.jpg
   feature: road_to_hs3_1024x256.jpg
 ---
 [Rich &#8220;rjh&#8221;][1] over at [HomeSeer][2] has posted a [survey][3] for plugin developers revealing some nifty (technical) information regarding the upcoming HomeSeer 3. 

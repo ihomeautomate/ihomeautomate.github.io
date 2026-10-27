@@ -2,7 +2,6 @@
 title: TKBHOME CeBIT 2014 spoilers
 author: iHomeAutomate
 excerpt: 'Read what was going on in the TKBHOME area at CeBIT 2014.'
-layout: article
 permalink: /2014/03/23/tkbhome-cebit-2014-spoilers/
 categories:
   - news
@@ -10,8 +9,8 @@ tags:
   - cebit
   - tkbhome
   - z-wave
-image:
-  teaser: 2014/03/tkbhome-zwavealliance-400x250.jpg
+header:
+  teaser: /images/2014/03/tkbhome-zwavealliance-400x250.jpg
 comments: false
 ads: true  
 ---

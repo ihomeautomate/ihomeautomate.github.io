@@ -2,7 +2,6 @@
 title: HS3-Pi hands-on (part 2)
 author: iHomeAutomate
 excerpt: 'The road to having remote (plugin) connections enabled on the HS3-Pi'
-layout: article
 permalink: /2014/07/20/hs3-pi-hands-on-part-2/
 categories:
   - homeseer
@@ -14,9 +13,8 @@ tags:
   - raspberry_pi
   - z-wave
   - csharp
-image:
-  teaser: 2014/07/raspberry_400x250.jpg
-ads: true
+header:
+  teaser: /images/2014/07/raspberry_400x250.jpg
 comments: false  
 ---
 Here is a summary of my findings after I&#8217;ve been reading up on [HS3-Pi][1] and installed it on my spare Raspberry Pi. Note that the HS3-Pi is exactly the same HomeSeer build as running on the Zee. So we can assume that all below is applicable for the HomeSeer HomeTroller Zee hardware too.

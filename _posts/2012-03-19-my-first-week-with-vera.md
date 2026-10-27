@@ -2,7 +2,6 @@
 title: My first week with Vera
 author: iHomeAutomate
 excerpt: 'A first experience with my MiOS Vera V3 Z-Wave Home Control Box'
-layout: article
 permalink: /2012/03/19/my-first-week-with-vera/
 disqus_identifier: "716 http://www.ihomeautomate.eu/?p=716"
 categories:
@@ -12,9 +11,8 @@ tags:
   - vera
   - z-wave
 comments: false
-ads: true
-image:
-  teaser: 2012/03/vera_melu_400x250.png
+header:
+  teaser: /images/2012/03/vera_melu_400x250.png
 ---
 I finally decided to introduce <a href="http://micasaverde.com/vera-3.php" title="Vera V3" target="_blank">Vera (V3)</a> to my home. This is what I learned the first week.
 

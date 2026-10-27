@@ -2,17 +2,15 @@
 title: Python scripts in HomeSeer
 author: iHomeAutomate
 excerpt: 'Simple steps describing how to get python scripts running in HomeSeer'
-layout: article
 permalink: /2010/06/17/python-scripts-in-homeseer/
-image:
-  teaser: python-400x250.png
+header:
+  teaser: /images/python-400x250.png
 categories:
   - homeseer
 tags:
   - homeseer
   - python
   - script
-ads: true
 comments: false  
 ---
 For a while I was searching an alternative to VBScript as script language within HomeSeer. I almost decided to go for C# and buying the [Script Connector Plugin](http://store.homeseer.com/store/Script-Connector-Plug-In-P460C155.aspx), but decided to try an out-of-box solution first. Python was first on my list.

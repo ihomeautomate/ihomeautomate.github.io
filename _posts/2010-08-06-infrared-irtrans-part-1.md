@@ -2,17 +2,15 @@
 title: IR home automatisation using irTrans (part 1)
 author: iHomeAutomate
 excerpt: 'A first experience doing infrared home automatisation with irTrans'
-layout: article
 permalink: /2010/08/06/infrared-irtrans-part-1/
-image:
-  teaser: logo_irtrans-400x250.jpg
+header:
+  teaser: /images/logo_irtrans-400x250.jpg
 categories:
   - infrared
 tags:
   - infrared
   - ir
   - irtrans
-ads: true
 comments: false
 ---
 Requisites:

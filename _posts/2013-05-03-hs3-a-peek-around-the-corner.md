@@ -2,7 +2,6 @@
 title: 'HS3 &#8211; a peek around the corner'
 author: iHomeAutomate
 excerpt: 'A peek around the corner of HS3 (beta) release status'
-layout: article
 permalink: /2013/05/03/hs3-a-peek-around-the-corner/
 categories:
   - homeseer
@@ -13,9 +12,8 @@ tags:
   - road_to_hs3
 disqus_identifier: "829 http://www.ihomeautomate.eu/?p=829"
 comments: false
-ads: true
-image:
-  teaser: 2013/05/Teaser-Events-1-400x250.jpg
+header:
+  teaser: /images/2013/05/Teaser-Events-1-400x250.jpg
   feature: road_to_hs3_1024x256.jpg
 ---
 **2013, February 4** &#8211; About Z-Wave

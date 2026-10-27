@@ -2,17 +2,15 @@
 title: Y-Cam Knight first experience
 author: iHomeAutomate
 excerpt: 'My first experience with my Y-Cam Knight IP Camera'
-layout: article
 permalink: /2010/09/25/y-cam-knight-first-experience/
-image:
-  teaser: Ycam_logo-400x250.jpg
+header:
+  teaser: /images/Ycam_logo-400x250.jpg
 categories:
   - ip-camera
 tags:
   - ip-camera
   - y-cam
 comments: false
-ads: true
 ---
 
 Here's my first experience with the Y-Cam Knight IP Camera.

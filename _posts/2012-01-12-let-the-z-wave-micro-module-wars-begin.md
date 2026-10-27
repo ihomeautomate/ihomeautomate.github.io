@@ -2,7 +2,6 @@
 title: Let the z-wave micro module wars begin!
 author: iHomeAutomate
 excerpt: 'The word is out: Aeon Labs Z-Wave Micro Modules have arrived.'
-layout: article
 permalink: /2012/01/12/let-the-z-wave-micro-module-wars-begin/
 disqus_identifier: "704 http://www.ihomeautomate.eu/?p=704"
 categories:
@@ -12,9 +11,8 @@ tags:
   - z-wave
   - micro_modules
 comments: false
-ads: true
 image: 
-  teaser: 2011/09/aeonlabs_micro_modules_400x250.png
+  teaser: /images/2011/09/aeonlabs_micro_modules_400x250.png
 ---
 The word is out that the Aeon Labs Z-Wave Micro Modules have arrived. Do we dare say FINALLY :-) ? Anyway, let the [wars][1] begin! Feel free to let your first (customer) experiences know below in the comments.
 

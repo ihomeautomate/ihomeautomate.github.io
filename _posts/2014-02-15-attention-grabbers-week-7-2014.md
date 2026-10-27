@@ -2,16 +2,14 @@
 title: Attention grabbers for Week 6 and Week 7 2014
 author: iHomeAutomate
 excerpt: 'Latest software update rumours and rollouts, and latest Honeywell Evohome spam :-)'
-layout: article
 permalink: /2014/02/15/attention-grabbers-week-7-2014/
 categories:
   - news
 tags:
   - news
-ads: true
 comments: false
-image:
-  teaser: February_calendar_400x250.jpg
+header:
+  teaser: /images/February_calendar_400x250.jpg
 ---
 The last few weeks, the following topics grabbed our attention:
 

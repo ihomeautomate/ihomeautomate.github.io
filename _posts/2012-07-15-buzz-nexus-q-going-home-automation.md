@@ -2,7 +2,6 @@
 title: 'Buzz: Nexus Q going home automation?'
 author: iHomeAutomate
 excerpt: 'Nexus Q buzzing ZigBee?'
-layout: article
 permalink: /2012/07/15/buzz-nexus-q-going-home-automation/
 dsq_thread_id:
   - 766694349
@@ -14,10 +13,9 @@ tags:
   - home-entertainment
   - z-wave
   - zigbee
-image:
-  teaser: 2012/07/player-q-gallery-front-400x250.jpg
+header:
+  teaser: /images/2012/07/player-q-gallery-front-400x250.jpg
 comments: false
-ads: true
 ---
 ##### Stating facts:
 

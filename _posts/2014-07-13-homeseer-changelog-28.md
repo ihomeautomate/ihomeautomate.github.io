@@ -2,7 +2,6 @@
 title: 'Homeseer changelog #28'
 author: iHomeAutomate
 excerpt: 'Weekly overview of the latest updates in Homeseer land #28'
-layout: article
 permalink: /2014/07/13/homeseer-changelog-28/
 categories:
   - homeseer
@@ -12,7 +11,6 @@ tags:
   - hs2
   - homeseer3
   - hs3
-ads: true
 comments: false  
 ---
 Here&#8217;s this weeks overview of updates in Homeseer land #28.

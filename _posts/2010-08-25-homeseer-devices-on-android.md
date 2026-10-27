@@ -2,10 +2,9 @@
 title: HomeSeer devices on Android
 author: iHomeAutomate
 excerpt: 'Creating my own replacement of HSTouch or DroidSeer on Android'
-layout: article
 permalink: /2010/08/25/homeseer-devices-on-android/
-image:
-  teaser: 2010/09/HelloHomeseerFromAndroid-400x250.jpg
+header:
+  teaser: /images/2010/09/HelloHomeseerFromAndroid-400x250.jpg
 categories:
   - android
 tags:
@@ -15,7 +14,6 @@ tags:
   - hstouch
   - java
 comments: false
-ads: true
 ---
 Ouch, my smart phone running on Windows Mobile died! Nevertheless, it was time to get a new gadget! As introduction to the big world of Android smart phones, I got myself an HTC WildFire (running Android 2.1). Time to download the Android Development Kit!
 

@@ -2,7 +2,6 @@
 title: Groovy scripting in HomeSeer (part 2)
 author: iHomeAutomate
 excerpt: 'HomeSeer plugin to write Groovy scripts and let them to the hard work connecting to your devices in homeseer.'
-layout: article
 permalink: /2011/11/02/groovy-scripting-in-homeseer-part-2/
 categories:
   - homeseer
@@ -11,8 +10,8 @@ tags:
   - homeseer_plugin
   - script
   - java
-image:
-  teaser: 2011/09/homeseer.groovy.400x250.jpg
+header:
+  teaser: /images/2011/09/homeseer.groovy.400x250.jpg
   feature: 2011/09/homeseer.groovy.1025x256.jpg
 comments: false
 ads: true  

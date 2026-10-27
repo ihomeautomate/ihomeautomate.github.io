@@ -2,7 +2,6 @@
 title: Everspring AN158 powermeter facts
 author: iHomeAutomate
 excerpt: 'Introduction to the Everspring AN158 device and its power metering features'
-layout: article
 permalink: /2011/09/06/everspring-an158-powermeter-facts/
 disqus_identifier: '293 http://www.ihomeautomate.eu/?p=293'
 categories:
@@ -14,9 +13,8 @@ tags:
   - powermeter
   - z-wave
 comments: false
-ads: true
-image:
-  teaser: an158-400x250.jpg
+header:
+  teaser: /images/an158-400x250.jpg
 ---
 The Everspring AN158 device is a Z-Wave on/off plug with power metering capabilities. It reports both the actual consumption (in Watts) and the accumulated usage (in KWh). The device is rated IP20, hence only for indoor dry environments.
 

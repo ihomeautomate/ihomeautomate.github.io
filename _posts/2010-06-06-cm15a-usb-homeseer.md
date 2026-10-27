@@ -2,10 +2,9 @@
 title: CM15A USB / Homeseer
 author: iHomeAutomate
 excerpt: 'An overview of what is needed to get the CM15A X10 USB to work with HomeSeer'
-layout: article
 permalink: /2010/06/06/cm15a-usb-homeseer/
-image:
-  teaser: 2010/06/CM15A_homeseer-400x250.jpg
+header:
+  teaser: /images/2010/06/CM15A_homeseer-400x250.jpg
 dsq_thread_id:
   - 404660285
 categories:
@@ -15,7 +14,6 @@ tags:
   - homeseer
   - usb
   - x10
-ads: true
 disqus_identifier: '101 http://smart-living.geoblog.be/?p=101'
 comments: false
 ---

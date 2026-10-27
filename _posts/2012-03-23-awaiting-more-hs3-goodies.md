@@ -2,7 +2,6 @@
 title: Awaiting HS3 goodies
 author: iHomeAutomate
 excerpt: 'The first Homeseer 3 gossip in 2012!'
-layout: article
 permalink: /2012/03/23/awaiting-more-hs3-goodies/
 categories:
   - homeseer
@@ -11,11 +10,10 @@ tags:
   - homeseer3
   - hs3
   - road_to_hs3
-image:
-  teaser: HomeSeer.Appetizer.400x250.jpg
+header:
+  teaser: /images/HomeSeer.Appetizer.400x250.jpg
   feature: road_to_hs3_1024x256.jpg
 comments: false
-ads: true
 ---
 Not much more information yet, but still nice to continue HS3 gossip in 2012 :-). In case you are interested in previous episodes, [here][1] is where we left off.
 

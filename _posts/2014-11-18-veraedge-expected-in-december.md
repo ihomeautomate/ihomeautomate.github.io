@@ -2,7 +2,6 @@
 title: VeraEdge expected to ship in December
 author: iHomeAutomate
 excerpt: 'VeraEdge expected to ship in December'
-layout: article
 permalink: /2014/11/18/veraedge-expected-in-december/
 categories:
   - vera
@@ -11,9 +10,8 @@ tags:
   - veraedge
   - veralite
 comments: false
-ads: true
-image:
-  teaser: 2014/11/veraedge_400x250.png
+header:
+  teaser: /images/2014/11/veraedge_400x250.png
 ---
 Three years after the [Vera3 launch][1], VeraEdge has reached pre-order status on [shop.getvera.com][2], expected to ship December 2014. Here are the specifications:
 

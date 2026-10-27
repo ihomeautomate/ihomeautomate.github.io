@@ -2,7 +2,6 @@
 title: Duwi z-wave window blind Insert
 author: iHomeAutomate
 excerpt: "A while back I've encountered some issues customizing the Duwi blind control. I've taken some notes and decided to share with the rest of the world."
-layout: article
 permalink: /2011/10/22/duwi-z-wave-window-blind-insert/
 dsq_thread_id:
   - 450683248
@@ -14,8 +13,8 @@ tags:
   - popp
   - vera
   - z-wave
-image:
-  teaser: 2011/10/duwi.ihomeautomate.blinds-400x250.jpg
+header:
+  teaser: /images/2011/10/duwi.ihomeautomate.blinds-400x250.jpg
 comments: false
 ads: true  
 ---

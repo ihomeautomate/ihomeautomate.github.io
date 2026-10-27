@@ -1,7 +1,6 @@
 ---
 title: Are we there yet?
 author: iHomeAutomate
-layout: article
 permalink: /2012/12/21/are-we-there-yet/
 categories:
   - homeseer
@@ -10,12 +9,11 @@ tags:
   - homeseer3
   - hs3
   - road_to_hs3
-image:
-  teaser: 2012/12/CUBA-MAYAN_CEREMON_400x250.jpg
+header:
+  teaser: /images/2012/12/CUBA-MAYAN_CEREMON_400x250.jpg
   feature: road_to_hs3_1024x256.jpg  
 excerpt: 'Quick post before end-of-year activities :-). Here’s what’s new in the HS3 universe.'
 comments: false
-ads: true
 ---
 Quick post before end-of-year activities :-). Here&#8217;s what&#8217;s new in the HS3 universe:
 

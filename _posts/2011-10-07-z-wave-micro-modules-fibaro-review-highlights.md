@@ -2,7 +2,6 @@
 title: Z-Wave micro modules Fibaro review highlights
 author: iHomeAutomate
 excerpt: 'The Fibaro z-wave micro modules have arrived. The highlights of the initial test(s) are summarized in this article.'
-layout: article
 permalink: /2011/10/07/z-wave-micro-modules-fibaro-review-highlights/
 categories:
   - z-wave
@@ -10,11 +9,10 @@ tags:
   - fibaro
   - micro_modules
   - z-wave
-ads: true
 comments: false
 disqus_identifier: '447 http://www.ihomeautomate.eu/?p=447'
-image:
-  teaser: fibaro.logo_400x250.jpg
+header:
+  teaser: /images/fibaro.logo_400x250.jpg
 toc: true
 ---
 [ Cédric Locqueneux][1] over at [Maison-Et-Domotique][2] has made a nice [review][3] (FR) of the new Fibaro micro modules. Some highlights:

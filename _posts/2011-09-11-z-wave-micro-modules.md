@@ -2,7 +2,6 @@
 title: Invasion of the Z-Wave micro modules
 author: iHomeAutomate
 excerpt: 'Z-Wave micro modules rumoured to arrive September 2011 making in-wall placement behind a traditional switch finally possible with z-wave.<!--:-->'
-layout: article
 permalink: /2011/09/11/z-wave-micro-modules/
 categories:
   - z-wave
@@ -14,8 +13,8 @@ tags:
 comments: false
 ads: true    
 disqus_identifier: '369 http://www.ihomeautomate.eu/?p=369'
-image:
-  teaser: 2011/09/invasion.micro_.modules_400x250.jpg
+header:
+  teaser: /images/2011/09/invasion.micro_.modules_400x250.jpg
   feature: 2011/09/invasion.micro_.modules_1024x256.jpg
 ---
 It feels like we were waiting for the Z-Wave micro modules for too many years&#8230; but now, they have finally arrived. According to rumours we can expect two different manufacturers, giving their best shot at the Z-Wave micro module market around the end of September 2011. Will this be the end of the older-skool X10 based Marmitek / Xanura micro modules? I would certainly hope so :-).

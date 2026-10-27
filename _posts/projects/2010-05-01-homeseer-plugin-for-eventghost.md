@@ -2,12 +2,10 @@
 title: 'EventGhost HS plugin'
 excerpt: 'A HomeSeer plugin for EventGhost'
 author: iHomeAutomate
-layout: article
-ads: true
 categories:
   - projects
-image:
-  teaser: hellohomeseer.jpg
+header:
+  teaser: /images/hellohomeseer.jpg
 project: true  
 ---
 

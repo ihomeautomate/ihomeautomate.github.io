@@ -2,13 +2,11 @@
 title: 'HomeSeerToy in C#'
 author: iHomeAutomate
 excerpt: 'Some tips and tricks to connect from a C# application to HomeSeer'
-layout: article
 permalink: /2010/04/24/homeseertoy-in-csharp/
 comments: false
-ads: true
-image:
+header:
   feature: 2010/05/HomeSeerToy.png
-  teaser: 2010/05/HomeSeerToy-400x250.jpg
+  teaser: /images/2010/05/HomeSeerToy-400x250.jpg
 disqus_identifier: '76 http://smart-living.geoblog.be/?p=76'
 categories:
   - homeseer 

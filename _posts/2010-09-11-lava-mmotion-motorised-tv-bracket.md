@@ -2,10 +2,9 @@
 title: LAVA mMotion motorised TV bracket (part 1)
 author: iHomeAutomate
 excerpt: Mounting a LAVA mMotion motorised TV bracket on my Sony Bravia Z4500 46" TV, and it's difficulties.
-layout: article
 permalink: /2010/09/11/lava-mmotion-motorised-tv-bracket/
-image:
-  teaser: lava_mmotion.jpg
+header:
+  teaser: /images/lava_mmotion.jpg
 categories:
   - home-entertainment
 tags:
@@ -14,7 +13,6 @@ tags:
   - sony
   - tv
 comments: false
-ads: true
 ---
 
 A motorised TV bracket sounds great? Here is how I mounted mine.

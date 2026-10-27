@@ -2,7 +2,6 @@
 title: 'Continuing the HS3 gossip&#8230;'
 author: iHomeAutomate
 excerpt: "Read what's new in HS3..."
-layout: article
 permalink: /2011/12/03/continuing-on-the-hs3-gossip/
 dsq_thread_id:
   - 492374557
@@ -13,12 +12,11 @@ tags:
   - homeseer3
   - hs3
   - road_to_hs3
-image:
-  teaser: HomeSeer.Appetizer.400x250.jpg
+header:
+  teaser: /images/HomeSeer.Appetizer.400x250.jpg
   feature: road_to_hs3_1024x256.jpg
 disqus_identifier: "543 http://www.ihomeautomate.eu/?p=543"
 comments: false
-ads: true
 ---
 Last month, [Rich &#8220;rjh&#8221;][1] over at [HomeSeer][2] has revealed some nifty information regarding the upcoming HomeSeer 3. 
 

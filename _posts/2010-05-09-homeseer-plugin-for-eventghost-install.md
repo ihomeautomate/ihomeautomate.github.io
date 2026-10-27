@@ -2,17 +2,15 @@
 title: Installation HomeSeer plugin for EventGhost
 author: iHomeAutomate
 excerpt: 'Describing how to install the EventGhost plugin to interface with HomeSeer'
-layout: article
 permalink: /2010/05/09/homeseer-plugin-for-eventghost-install/
-image:
-  teaser: 2010/05/addplugin-400x250.jpg
+header:
+  teaser: /images/2010/05/addplugin-400x250.jpg
 categories:
   - EventGhost
 tags:
   - eventghost
   - homeseer
   - python
-ads: true
 ---
 Some people have contacted me to explain in a few words how exactly to install the EventGhost HomeSeer plugin. This will hopefully do just that.
 

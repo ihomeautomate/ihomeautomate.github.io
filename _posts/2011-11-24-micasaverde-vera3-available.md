@@ -2,7 +2,6 @@
 title: MiCasaVerde Vera3 available in December
 author: iHomeAutomate
 excerpt: 'Vera3 available in December, featuring better WiFi, more memory and more LAN ports. VeraLite hopefully coming soon?'
-layout: article
 permalink: /2011/11/24/micasaverde-vera3-available/
 disqus_identifier: "525 http://www.ihomeautomate.eu/?p=525"
 categories:
@@ -13,8 +12,7 @@ tags:
   - veralite
   - z-wave
 comments: false
-ads: true
-image:
+header:
   teaser: /2011/11/vera_3_head_400x250.jpg
 ---
 It looks like the [Vera3][1] (quitely) sneaked in the available stock on [MiCasaVerde][2]. The specifications are the same as previously mentioned on the [wiki][3]:

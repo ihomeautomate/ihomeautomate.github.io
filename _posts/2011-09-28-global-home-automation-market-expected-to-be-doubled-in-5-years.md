@@ -2,14 +2,12 @@
 title: Global home automation market expected to be doubled in 5 years?
 author: iHomeAutomate
 excerpt: 'According to a report available at MarketReportsOnline the Home automation market is expected to double the next 5 years...'
-layout: article
 permalink: /2011/09/28/global-home-automation-market-expected-to-be-doubled-in-5-years/
 categories:
   - news
-ads: true
 comments: false
-image:
-  teaser: 2011/09/growth-graph-400x250.jpg
+header:
+  teaser: /images/2011/09/growth-graph-400x250.jpg
 ---
 MarketReportsOnline have made a report available, estimating that the home automation market will grow from $16,888.27 million in 2011 to $35,627.83 million in 2016, at a year-over-year growth rate of 16.1 percent. 
 

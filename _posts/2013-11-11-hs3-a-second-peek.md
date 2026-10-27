@@ -1,7 +1,6 @@
 ---
 title: HS3, a second peek
 author: iHomeAutomate
-layout: article
 permalink: /2013/11/11/hs3-a-second-peek/
 categories:
   - homeseer
@@ -10,7 +9,7 @@ tags:
   - homeseer3
   - hs3
   - road_to_hs3  
-image:
+header:
   teaser: /2013/11/second-chance-400x250.jpg
   feature: road_to_hs3_1024x256.jpg
 comments: false

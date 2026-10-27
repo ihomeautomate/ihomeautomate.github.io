@@ -2,7 +2,6 @@
 title: HomeSeer 3 gossips and appetizers
 author: iHomeAutomate
 excerpt: 'Will there be a first version of HomeSeer 3 available soon? A summary of (official) statements and other HS3 gossip.'
-layout: article
 permalink: /2011/10/11/homeseer-3-gossips-and-appetizers/
 categories:
   - homeseer3
@@ -11,11 +10,10 @@ tags:
   - homeseer3
   - hs3
   - road_to_hs3
-image:
-  teaser: HomeSeer.Appetizer.400x250.jpg
+header:
+  teaser: /images/HomeSeer.Appetizer.400x250.jpg
   feature: road_to_hs3_1024x256.jpg
 comments: false
-ads: true
 ---
 I&#8217;ve compiled a list of statements and other chatter regarding HomeSeer 3 (in chronological order). For the latest gossip, scroll down :).
 

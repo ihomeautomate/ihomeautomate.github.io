@@ -1,34 +1,77 @@
-# Site wide configuration
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
 
+# Site settings
 title: iHomeAutomate
-description: Tips and information about home automation - Tutorials, experiences, applications that make home automation easier
-logo: # 120x120 px default image used for Twitter summary card
-teaser: home-400x250.png # 400x250 px default teaser image used in image archive grid
-locale:
+subtitle: "Home Automation Tips & Tutorials"
+description: "Tips and information about home automation - Tutorials, experiences, applications that make home automation easier"
 url: https://www.ihomeautomate.com
+baseurl: ""
+logo: "/images/home-150x1501.png"
 
-# Jekyll configuration
-
-sass:
-    sass_dir: _sass
-    style: compressed
-permalink: /:categories/:title/
+# Build settings
 markdown: kramdown
 highlighter: rouge
+permalink: /:categories/:title/
+
+# Plugins
 plugins:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
+# Author
+author:
+  name: "iHomeAutomate"
+  avatar: "/images/bio-photo.jpg"
+  bio: "Tips and information about home automation"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.ihomeautomate.com"
 
-# Site owner
-owner:
-  name: iHomeAutomate
-  web: https://iHomeAutomate.com
-  email:
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      header:
+        teaser: /images/home-400x250.png
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
 
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+# Pagination
+paginate: 12
+paginate_path: /page:num/
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8ZLY9LHWRT"
 
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - LICENSE
+  - README.md
+  - docker-compose.yml
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+# Hide the theme's default /feed.xml links (footer + head)
+atom_feed:
+  hide: true

@@ -2,7 +2,6 @@
 title: HomeSeer Communication Framework
 author: iHomeAutomate
 excerpt: 'Want to know more about the HS Communication Framework ?'
-layout: article
 permalink: /2014/01/25/hscf-homeseer-communication-framework/
 categories:
   - homeseer
@@ -12,9 +11,8 @@ tags:
   - homeseer
   - homeseer3
   - hs3
-image:
-  teaser: 2014/02/building-blocks-400x250.jpg
-ads: true
+header:
+  teaser: /images/2014/02/building-blocks-400x250.jpg
 comments: false
 ---
 One of the big changes in HS3 is its communication framework. HS3 introduced `HSCF.dll`, from the HS3 SDK documentation:

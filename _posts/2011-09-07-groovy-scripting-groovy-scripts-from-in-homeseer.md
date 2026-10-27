@@ -2,7 +2,6 @@
 title: Groovy scripting in HomeSeer (part 1)
 author: iHomeAutomate
 excerpt: 'Feel the need to explore the bounderies of HomeSeer scripting? Try to connect to HomeSeer with Groovy, an agile dynamic language for the Java Platform.'
-layout: article
 permalink: /2011/09/07/groovy-scripting-groovy-scripts-from-in-homeseer/
 categories:
   - homeseer
@@ -11,11 +10,10 @@ tags:
   - homeseer
   - java
   - script
-image:
-  teaser: 2011/09/homeseer.groovy.400x250.jpg
+header:
+  teaser: /images/2011/09/homeseer.groovy.400x250.jpg
   feature: 2011/09/homeseer.groovy.1025x256.jpg
 comments: false
-ads: true
 ---
 I felt like fooling around with <a href="http://groovy-lang.org/" target="_blank">Groovy</a> and [HomeSeer][1], so I started investigating what the options are. Of course you can just run a command-line groovy script from within HomeSeer, that&#8217;s not a challenge. The challenge was to let the groovy script actually connect to HomeSeer. 
 

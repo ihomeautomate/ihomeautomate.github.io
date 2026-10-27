@@ -2,7 +2,6 @@
 title: Solving sqlite3 column database name error(s)
 author: iHomeAutomate
 excerpt: 'sqlite3 on mac with mono, solved!'
-layout: article
 permalink: /2017/02/09/solve_sqlite3_column_database_name_error/
 categories:
   - homeseer
@@ -15,9 +14,8 @@ tags:
   - sqlite3
   - sqlite
 comments: false
-ads: true
-image:
-  teaser: 2017/02/sqlite3.png
+header:
+  teaser: /images/2017/02/sqlite3.png
 ---
 Running HS3 on osx has issues showing its logs. The console displays following error: 
 {% highlight bash %}

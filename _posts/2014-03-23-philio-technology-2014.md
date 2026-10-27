@@ -2,7 +2,6 @@
 title: Philio Technology meets 2014
 author: iHomeAutomate
 excerpt: 'A view of the most interesting Z-Wave products from the (big) Philio Technology catalogue.'
-layout: article
 permalink: /2014/03/23/philio-technology-2014/
 categories:
   - news
@@ -10,8 +9,8 @@ tags:
   - cebit
   - z-wave
   - philio_technology
-image:
-  teaser: 2014/03/philio-logo-400x250.png
+header:
+  teaser: /images/2014/03/philio-logo-400x250.png
 comments: false
 ads: true  
 ---

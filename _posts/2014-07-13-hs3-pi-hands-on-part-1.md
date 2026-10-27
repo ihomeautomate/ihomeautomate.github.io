@@ -2,7 +2,6 @@
 title: HS3-Pi hands-on (part 1)
 author: iHomeAutomate
 excerpt: 'Get HomeSeer HS3-Pi installed on your Raspberry Pi'
-layout: article
 permalink: /2014/07/13/hs3-pi-hands-on-part-1/
 categories:
   - homeseer
@@ -13,9 +12,8 @@ tags:
   - hs3-pi
   - raspberry_pi
   - z-wave  
-image:
-  teaser: 2014/07/raspberry_400x250.jpg
-ads: true
+header:
+  teaser: /images/2014/07/raspberry_400x250.jpg
 comments: false  
 ---
 For OSX people, here&#8217;s a little guide to get the [HS3-Pi image][1] up and running on your Raspberry Pi. People running another OS please refer to the [HS3-Pi install guide][2].

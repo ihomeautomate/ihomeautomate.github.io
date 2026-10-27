@@ -2,7 +2,6 @@
 title: Enable remote plugins on your HomeSeer Zee
 author: iHomeAutomate
 excerpt: 'Enable remote plugins on your HomeSeer Zee or HS3-Pi'
-layout: article
 permalink: /2014/08/28/enable_remote_plugins_homeseer_zee_hs3pi/
 categories:
   - homeseer
@@ -13,9 +12,8 @@ tags:
   - hs3
   - hs3-pi
 comments: false
-ads: true
-image:
-  teaser: 2014/08/remote-connections_400x250.png
+header:
+  teaser: /images/2014/08/remote-connections_400x250.png
 ---
 I promised a way to connect your HomeSeer 3 plugins remotely to your HS3-Pi or HomeSeer HomeTroller Zee. Running through some hoops it has (partly) succeeded. You might want to read the previous posts on the [topic][1] before getting your hands dirty.
 

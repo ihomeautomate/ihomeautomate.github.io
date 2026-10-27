@@ -1,11 +1,5 @@
-# Site navigation links
-
-- title: HomeSeer
-  url: /homeseer/
-  excerpt: "All about the latest HomeSeer goodies"
-  image: homeseer_400x250.png
-
-- title: Projects
-  url: /projects/
-  excerpt: "A small selection of homemade projects we've developed"
-  image: homemade_400x250.png
+main:
+  - title: "HomeSeer"
+    url: /homeseer/
+  - title: "Projects"
+    url: /projects/

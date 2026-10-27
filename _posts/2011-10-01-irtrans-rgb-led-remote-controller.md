@@ -2,7 +2,6 @@
 title: irTrans RGB Led remote controller
 author: iHomeAutomate
 excerpt: 'In need of infrared codes of your IR RGB remote? Try the ones in this post and set your mood accordingly :).'
-layout: article
 permalink: /2011/10/01/irtrans-rgb-led-remote-controller/
 categories:
   - infrared
@@ -12,9 +11,8 @@ tags:
   - irtrans
   - led
 comments: false
-ads: true
-image:
-  teaser: 2011/10/rgbcontroller1-400x250.jpg
+header:
+  teaser: /images/2011/10/rgbcontroller1-400x250.jpg
 ---
 Automating my RGB LED moods with irTrans, using below .rem file. Feel free to use!
 

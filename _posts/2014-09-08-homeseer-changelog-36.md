@@ -2,7 +2,6 @@
 title: 'Homeseer changelog #36'
 author: iHomeAutomate
 excerpt: "@HomeSeer, what's new this week?"
-layout: article
 permalink: /2014/09/08/homeseer-changelog-36/
 categories:
   - homeseer
@@ -11,7 +10,6 @@ tags:
   - homeseer_changelog
   - homeseer3
   - hs3
-ads: true
 comments: false  
 ---
 Wondering what’s new this week in the land of Homeseer?

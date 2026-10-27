@@ -2,7 +2,6 @@
 title: 'Homeseer changelog #35'
 author: iHomeAutomate
 excerpt: 'What’s new this week in the land of Homeseer #35'
-layout: article
 permalink: /2014/09/01/homeseer-changelog-35/
 categories:
   - homeseer
@@ -11,7 +10,6 @@ tags:
   - homeseer_changelog
   - homeseer3
   - hs3
-ads: true
 comments: false  
 ---
 Wondering what’s new this week in the land of Homeseer? Nothing happening lately in HS2, looks like we all focus on HS3.
